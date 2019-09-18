@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Test\ the\ runtime\ of\ all\ the\ methods\ of\ RandomStringContainer\ class\n\n\ @author\ Sena\ Yevenyo\n\ @version\ (September\ 8,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ \n\ Runs\ ExperimentController\n
+comment2.params=numberOfItems\ seed
+comment2.target=float\ timeAddToFront(int,\ int)
+comment2.text=\n\ Returns\ time\ taken\ for\ addToFront()\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ addToFront();\n
+comment3.params=numberOfItems\ seed
+comment3.target=float\ timeAddToBack(int,\ int)
+comment3.text=\n\ Returns\ time\ taken\ for\ addToBack()\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ addToBack();\n
+comment4.params=numberOfItems\ seed
+comment4.target=float\ timeAddSorted(int,\ int)
+comment4.text=\n\ Returns\ time\ taken\ for\ addSorted()\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ addSorted();\n
+comment5.params=numberOfItems\ seed
+comment5.target=float\ timePrependSorted(int,\ int)
+comment5.text=\n\ Returns\ time\ taken\ for\ addPrependSorted()\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ addPrependSorted();\n
+comment6.params=numberOfItems\ seed
+comment6.target=float\ timeSortofUnsortedList(int,\ int)
+comment6.text=\n\ Returns\ time\ taken\ for\ selectionSort()\ on\ an\ unsorted\ list\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ selectionSort()\ on\ an\ unsorted\ list\n
+comment7.params=numberOfItems\ seed
+comment7.target=float\ timeSortofSortedList(int,\ int)
+comment7.text=\n\ Returns\ time\ taken\ for\ selectionSort()\ on\ an\ sorted\ list\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ selectionSort()\ on\ an\ sorted\ list\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StringList
+comment0.text=\n\ Bears\ similar\ functionalities\ as\ the\ List\ data\ structure\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 9,\ 2019\n
+comment1.params=
+comment1.target=StringList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StringList\n
+comment2.params=x
+comment2.target=void\ append(java.lang.String)
+comment2.text=\n\ Inserts\ the\ value\ of\ x\ at\ the\ end\ of\ the\ list\n\n\ @param\ \ String\ x\ Value\ to\ be\ inserted\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ Returns\ true\ if\ list\ has\ no\ data\n\n
+numComments=5

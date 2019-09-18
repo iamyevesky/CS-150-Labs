@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\n\ Stores\ a\ private\ String\ variable\ val\ and\ has\ a\ single\ Cell\ pointer\ next\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 09,\ 2019\n
+comment1.params=
+comment1.target=Cell()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cell\n
+comment2.params=x
+comment2.target=void\ append(java.lang.String)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

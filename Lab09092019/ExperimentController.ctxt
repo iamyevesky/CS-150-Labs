@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Test\ the\ runtime\ of\ all\ the\ methods\ of\ RandomStringContainer\ class\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 9,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed
+comment2.target=float\ timeAddToBack(int,\ int)
+comment2.text=\n\ Returns\ time\ taken\ for\ addToFront()\ to\ run\n\n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ addToFront();\n
+comment3.params=numberOfItems\ seed
+comment3.target=float\ timeToString(int,\ int)
+numComments=4

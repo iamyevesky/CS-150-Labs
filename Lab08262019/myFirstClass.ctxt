@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=myFirstClass
+comment0.text=\n\ @brief\:\ First\ class\ for\ CS150L\n\ \n\ @author\:\ Sena\ Yevenyo\n\ @version\:\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=myFirstClass()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ myFirstClass\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ @brief\n\ @param\n
+numComments=4

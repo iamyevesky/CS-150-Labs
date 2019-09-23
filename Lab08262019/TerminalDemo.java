@@ -3,7 +3,7 @@ import java.util.Scanner;
  * @brief: Tests out Scanner lib
  *
  * @author Sena Yevenyo
- * @version 1.0
+ * @version August 26, 2019
  */
 public class TerminalDemo
 {

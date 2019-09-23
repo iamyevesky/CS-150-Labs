@@ -2,10 +2,10 @@ import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.File;
 /**
- * Write a description of class Filewirter here.
+ * Writes words and letters per line for every line of a .txt document
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Sena Yevenyo
+ * @version August 26, 2019
  */
 public class Filewriter
 {

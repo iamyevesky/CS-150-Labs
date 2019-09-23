@@ -3,7 +3,7 @@
  * @brief: First class for CS150L
  * 
  * @author: Sena Yevenyo
- * @version: 1.0
+ * @version: August 26, 2019
  */
 public class myFirstClass
 {

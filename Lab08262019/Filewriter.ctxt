@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Filewriter
-comment0.text=\n\ Write\ a\ description\ of\ class\ Filewirter\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Writes\ words\ and\ letters\ per\ line\ for\ every\ line\ of\ a\ .txt\ document\n\n\ @author\ Sena\ Yevenyo\n\ @version\ August\ 26,\ 2019\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=

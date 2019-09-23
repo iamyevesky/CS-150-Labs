@@ -1,10 +1,11 @@
 import java.util.Scanner;
 /**
- *Compare two values of feet and inches
- *produces a boolean value of 'true' if
- *same and 'false' if not.
+ * Compare two values of feet and inches
+ * produces a boolean value of 'true' if
+ * same and 'false' if not.
+ * 
  * @author Sena Yevenyo
- * @version 1.0
+ * @version August 26, 2019
  */
 public class Inequality{
     public static void main(String[] args){

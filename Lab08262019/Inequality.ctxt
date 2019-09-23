@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Inequality
-comment0.text=\nCompare\ two\ values\ of\ feet\ and\ inches\nproduces\ a\ boolean\ value\ of\ 'true'\ if\nsame\ and\ 'false'\ if\ not.\n\ @author\ Sena\ Yevenyo\n\ @version\ 1.0\n
+comment0.text=\n\ Compare\ two\ values\ of\ feet\ and\ inches\n\ produces\ a\ boolean\ value\ of\ 'true'\ if\n\ same\ and\ 'false'\ if\ not.\n\ \n\ @author\ Sena\ Yevenyo\n\ @version\ August\ 26,\ 2019\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=

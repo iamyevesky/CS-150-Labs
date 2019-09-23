@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=TerminalDemo
-comment0.text=\r\n\ @brief\:\ Tests\ out\ Scanner\ lib\r\n\r\n\ @author\ Sena\ Yevenyo\r\n\ @version\ 1.0\r\n
+comment0.text=\n\ @brief\:\ Tests\ out\ Scanner\ lib\n\n\ @author\ Sena\ Yevenyo\n\ @version\ August\ 26,\ 2019\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=

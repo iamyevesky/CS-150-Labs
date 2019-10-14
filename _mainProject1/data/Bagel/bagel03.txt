@@ -1,0 +1,18 @@
+Food of restaurant, Bagel
+Food price, 0.99
+Simulation runtime in quants, 720
+Order volumes, 1587
+Number of customers welcomed, 407
+Number of customers checked out, 403
+Number of cashiers, 5
+Number of cooks, 10
+Revenue generated, 1571.13
+Cost incurred, 2298.0
+Profits generated, -726.87
+Average customer satisfaction, 95.16873
+Average customer satisfaction at busy mode, 85.07589
+Average customer satisfaction at normal mode, 96.797554
+Average wait time per customer, 10.645162
+Average wait time per customer in busy mode, 30.875
+Average wait time per customer in normal mode, 7.3804035
+Staff utilization index, 0.04141372

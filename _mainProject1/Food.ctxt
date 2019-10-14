@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\n\ A\ class\ that\ represents\ food\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 29,\ 2019\n
+comment1.params=
+comment1.target=Food()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Food\n
+comment2.params=
+comment2.target=int\ getLOrderNum()
+comment2.text=\n\ Returns\ the\ lowest\ possible\ order\ num\ for\ the\ food\n\n
+comment3.params=
+comment3.target=int\ getHOrderNum()
+comment3.text=\n\ Returns\ the\ highest\ possible\ order\ num\ for\ the\ food\n\n\ @return\ highOrderNum\ highest\ possible\ order\ num\ for\ the\ food\n
+comment4.params=
+comment4.target=float\ getPrice()
+comment4.text=\n\ Returns\ the\ prize\ of\ the\ meal\n\n\ @return\ prize\ of\ the\ food\ class\n
+comment5.params=
+comment5.target=int\ getCookTime()
+comment5.text=\n\ Returns\ the\ cook\ time\ of\ the\ meal\n\n\ @return\ cook\ time\ of\ the\ food\ class\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

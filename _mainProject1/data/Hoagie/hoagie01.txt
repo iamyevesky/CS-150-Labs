@@ -1,0 +1,18 @@
+Food of restaurant, Hoagie
+Food price, 4.2
+Simulation runtime in quants, 720
+Order volumes, 1185
+Number of customers welcomed, 1486
+Number of customers checked out, 417
+Number of cashiers, 5
+Number of cooks, 10
+Revenue generated, 4977.0
+Cost incurred, 2298.0
+Profits generated, 2679.0
+Average customer satisfaction, -61.803356
+Average customer satisfaction at busy mode, -62.575905
+Average customer satisfaction at normal mode, 98.5
+Average wait time per customer, 323.71463
+Average wait time per customer in busy mode, 325.2458
+Average wait time per customer in normal mode, 6.0
+Staff utilization index, -0.026894411

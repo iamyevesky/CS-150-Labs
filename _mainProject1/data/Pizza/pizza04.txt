@@ -1,0 +1,18 @@
+Food of restaurant, Pizza
+Food price, 10.0
+Simulation runtime in quants, 720
+Order volumes, 545
+Number of customers welcomed, 2816
+Number of customers checked out, 366
+Number of cashiers, 5
+Number of cooks, 10
+Revenue generated, 5450.0
+Cost incurred, 2298.0
+Profits generated, 3152.0
+Average customer satisfaction, -61.172813
+Average customer satisfaction at busy mode, -63.804863
+Average customer satisfaction at normal mode, 96.75
+Average wait time per customer, 322.48907
+Average wait time per customer in busy mode, 327.64722
+Average wait time per customer in normal mode, 13.0
+Staff utilization index, -0.026620023

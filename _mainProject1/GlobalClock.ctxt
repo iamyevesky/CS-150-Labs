@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GlobalClock
+comment0.text=\n\ This\ class\ simulates\ the\ global\ time\ for\ the\ whole\ simulation.\n\ Time\ is\ measured\ in\ 'ticks'\ or\ 'quants'.\n\ One\ quant\ is\ teaken\ as\ 60\ seconds\ in\ real\ world\ time.\n\ Global\ time\ increases\ by\ one\ quant\ for\ every\ experiment\ loop.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 7,\ 2019.\n
+comment1.params=
+comment1.target=GlobalClock()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GlobalClock\n
+comment2.params=
+comment2.target=int\ time()
+comment2.text=\n\ Returns\ the\ value\ of\ global\ time\n\n\ @return\ global\ quant\ time\n
+comment3.params=
+comment3.target=void\ tick()
+comment3.text=\n\ Increases\ the\ time\ of\ the\ simulation\n\ \n
+numComments=4

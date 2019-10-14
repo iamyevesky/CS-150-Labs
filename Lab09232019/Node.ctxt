@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ Represents\ a\ node\ in\ a\ LinkedList\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 23,\ 2019\n
+comment1.params=k\ v
+comment1.target=Node(int,\ java.lang.Object)
+comment2.params=v
+comment2.target=Node(java.lang.Object)
+comment3.params=
+comment3.target=int\ getKey()
+comment4.params=k
+comment4.target=void\ setKey(int)
+comment5.params=
+comment5.target=java.lang.Object\ getValue()
+comment6.params=value
+comment6.target=void\ setValue(java.lang.Object)
+comment7.params=
+comment7.target=Node\ getNext()
+comment8.params=node
+comment8.target=void\ setNext(Node)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Tests\ the\ time\ taken\ for\ all\ the\ searches\ of\ MyListStringContainer\ to\ run.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 28,\ 2019\n
+comment1.params=
+comment1.target=ExperimentController()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=numberOfItems\ seed
+comment3.target=float\ timeToLinearSearchWithoutIteratorFound(int,\ int)
+comment3.text=\n\ Returns\ time\ taken\ for\ linearSearch()\ to\ run\ (linearSearch\ without\ iterator)\n\ with\ member\ present\n\ \n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ insertionSort()\ for\ an\ unsorted\ list;\n
+comment4.params=numberOfItems\ seed
+comment4.target=float\ timeToLinearSearchWithoutIteratorNotFound(int,\ int)
+comment4.text=\n\ Returns\ time\ taken\ for\ linearSearch()\ to\ run\ (linearSearch\ without\ iterator)\n\ with\ member\ not\ present\n\ \n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ insertionSort()\ for\ an\ unsorted\ list;\n
+comment5.params=numberOfItems\ seed
+comment5.target=float\ timeToLinearSearchWithIteratorFound(int,\ int)
+comment5.text=\n\ Returns\ time\ taken\ for\ linearSearchIterator()\ to\ run\ (linearSearch\ with\ iterator)\n\ with\ member\ present\n\ \n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ insertionSort()\ for\ an\ unsorted\ list;\n
+comment6.params=numberOfItems\ seed
+comment6.target=float\ timeToLinearSearchWithIteratorNotFound(int,\ int)
+comment6.text=\n\ Returns\ time\ taken\ for\ linearSearch()\ to\ run\ (linearSearch\ without\ iterator)\n\ with\ member\ not\ present\n\ \n\ @param\ numberOfItems\ Number\ of\ data\ entries\n\ @param\ seed\ Seed\ for\ Random\ class\n\ @return\ output\ Time\ taken\ to\ run\ insertionSort()\ for\ an\ unsorted\ list;\n
+numComments=7

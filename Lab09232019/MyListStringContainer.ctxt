@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MyListStringContainer
+comment0.text=\n\ A\ String\ container\ class\ which\ implements\ MyLinkedList\ data\ structure.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 28,\ 2019\n
+comment1.params=val
+comment1.target=void\ addToFront(java.lang.String)
+comment1.text=\n\ Adds\ String\ to\ the\ front\ of\ the\ container\n\n\ @param\ \ val\ parameter\ to\ be\ added\ to\ front\n
+comment2.params=val
+comment2.target=void\ addToBack(java.lang.String)
+comment2.text=\n\ Adds\ String\ to\ the\ back\ of\ the\ container\n\n\ @param\ \ val\ parameter\ to\ be\ added\ to\ back\n
+comment3.params=val
+comment3.target=int\ linearSearch(java.lang.String)
+comment3.text=\n\ Searches\ for\ a\ String\ or\ a\ String\ containing\ a\ substring\ of\ the\ parameter\ without\ using\ iterator\n\n\ @param\ \ val\ parameter\ to\ be\ searched\n
+comment4.params=val
+comment4.target=int\ linearSearchIterator(java.lang.String)
+comment4.text=\n\ Searches\ for\ a\ String\ or\ a\ String\ containing\ a\ substring\ of\ the\ parameter\ using\ iterator\n\n\ @param\ \ val\ parameter\ to\ be\ searched\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=key
+comment7.target=java.lang.String\ get(int)
+comment7.text=\n\ Obtains\ a\ String\ at\ a\ given\ index\n\n\ @param\ key\ index\ to\ be\ obtained\n
+numComments=8

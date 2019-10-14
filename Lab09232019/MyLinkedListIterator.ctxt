@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyLinkedListIterator
+comment0.text=\n\ Implements\ the\ Iterator\ interface.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ September\ 23,\ 2019\n
+comment1.params=obj\ node
+comment1.target=MyLinkedListIterator(MyLinkedList,\ Node)
+comment2.params=
+comment2.target=java.lang.Object\ next()
+comment3.params=
+comment3.target=boolean\ hasNext()
+comment4.params=
+comment4.target=void\ remove()
+numComments=5

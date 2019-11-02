@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment0.text=\n\ A\ binary\ search\ tree\ implementation\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 27,2019\n
+comment1.params=
+comment1.target=BinarySearchTree()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BinarySearchTree\n
+comment2.params=value
+comment2.target=BinarySearchTree(java.lang.Comparable)
+comment3.params=value
+comment3.target=boolean\ insert(java.lang.Comparable)
+comment3.text=\n\ Inserts\ an\ object\ into\ the\ class\ implementing\ Tree\n\n\ @param\ object\ inserted\ into\ class\ implementing\ Tree\n\ @return\ Returns\ true\ if\ the\ object\ is\ inserted\n
+comment4.params=value\ node
+comment4.target=boolean\ insertRecursive(java.lang.Comparable,\ BinaryNode)
+comment5.params=value
+comment5.target=boolean\ contains(java.lang.Comparable)
+comment5.text=\n\ Returns\ true\ if\ an\ object\ is\ present\ in\ class\ implenting\ Tree\n\n\ @param\ object\ to\ be\ searched\ \ \n\ @return\ boolean\ value\ determining\ if\ an\ object\ is\ present\ or\ not\n
+comment6.params=value\ node
+comment6.target=boolean\ containsRecursive(java.lang.Comparable,\ BinaryNode)
+numComments=7

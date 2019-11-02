@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BinaryNode
+comment0.text=\n\ A\ class\ that\ creates\ the\ node\ for\ a\ binary\ tree.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 21,\ 2019\n
+comment1.params=
+comment1.target=BinaryNode()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BinaryNode\n
+comment2.params=data
+comment2.target=BinaryNode(java.lang.Comparable)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ BinaryNode\n
+comment3.params=
+comment3.target=java.lang.Comparable\ getValue()
+comment3.text=\n\ Returns\ value\ stored\ in\ node\n\n\ @return\ the\ value\ stored\ in\ node\ object\n
+comment4.params=
+comment4.target=int\ getHeight()
+comment4.text=\n\ Returns\ height\ of\ a\ node\ in\ a\ tree\n\n\ @return\ height\ of\ node\ in\ the\ tree;\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ String\ representation\ of\ node\n\ \n\ @\ String\ representation\ of\ node\n
+comment6.params=
+comment6.target=int\ getDepth()
+comment6.text=\n\ Returns\ depth\ of\ a\ node\ in\ a\ tree\n\n\ @return\ depth\ of\ node\ in\ the\ tree;\n
+numComments=7

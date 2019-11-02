@@ -328,11 +328,13 @@ public class Restaurant
             @Override
             public int compare(Customer c1, Customer c2){
                 return (int) (c1.getID() - c2.getID());
-            }};
+            }
+    };
 
     public static Comparator<Order> idOrderComparator = new Comparator<Order>(){
             @Override
             public int compare(Order o1, Order o2){
                 return (int) (o1.getID() - o2.getID());
-            }};
+            }
+    };
 }

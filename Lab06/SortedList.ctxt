@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SortedList
+comment0.text=\n\ An\ abstract\ class\ that\ stores\ Person\ classes\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 16,\ 2019\n
+comment1.params=person
+comment1.target=void\ addElement(Person)
+comment1.text=\n\ Adds\ a\ Person\ object\ to\ the\ SortedList\ container\n\n\ @param\ Person\ person,\ object\ to\ be\ added\n
+comment2.params=
+comment2.target=java.lang.String\ printData()
+comment2.text=\n\ Prints\ out\ the\ SortedList\ Container\ \n\n\ @param\ Person\ person,\ object\ to\ be\ added\n
+comment3.params=
+comment3.target=void\ mergeSort()
+comment3.text=\n\ Sorts\ the\ container\ by\ merge\ sort\n\n
+comment4.params=
+comment4.target=void\ quickSort()
+comment4.text=\n\ Sorts\ the\ container\ by\ quick\ sort\n\n
+numComments=5

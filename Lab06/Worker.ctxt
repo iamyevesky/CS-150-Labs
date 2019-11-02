@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Worker
+comment0.text=\n\ Write\ a\ description\ of\ class\ Worker\ here.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 15,2019\n
+comment1.params=id
+comment1.target=Worker(long)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Worker\n
+comment2.params=
+comment2.target=long\ getID()
+comment2.text=\n\ Returns\ the\ id\ of\ the\ Worker\ object\n\n\ @return\ \ the\ id\ of\ the\ Worker\ object\n
+comment3.params=b
+comment3.target=int\ compareTo(Worker)
+comment3.text=\n\ Returns\ the\ difference\ between\ the\ id\ of\ the\ workers\n\ The\ difference\ is\ 1\ if\ the\ Worker\ object\ being\ compared\n\ has\ an\ id\ number\ greater\ than\ that\ of\ the\ variable\ of\ the\ method\n\ and\ -1\ if\ condition\ is\ vice-versa.\ Returns\ 0\ if\ equal\n\n\ @return\ the\ difference\ between\ the\ id\ of\ workers\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Prints\ the\ Worker\ object\n\ \ \n\ \ @return\ the\ id\ of\ the\ worker\ in\ paranthesis\n
+comment5.params=c1\ c2
+comment5.target=int\ compare(Worker,\ Worker)
+numComments=6

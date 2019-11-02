@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RandomStringGenerator
+comment0.text=\n\ Generates\ random\ Strings\ of\ a\ specific\ length\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 16,\ 2019\n
+comment1.params=seed
+comment1.target=RandomStringGenerator(long)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RandomStringGenerator\n\ \n\ @param\ long\ seed,\ seed\ for\ RandomStringGenerator\ class\n
+comment2.params=
+comment2.target=RandomStringGenerator()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ RandomStringGenerator\n\ \n
+comment3.params=
+comment3.target=java.lang.String\ nextNumber()
+comment3.text=\n\ Generates\ a\ random\ String\ number\ of\ format\ (XXX)XXX-XXX\n\n
+comment4.params=
+comment4.target=java.lang.String\ nextInt()
+comment4.text=\n\ Generates\ a\ random\ String\ number\ of\ format\ XXX\n\n
+comment5.params=
+comment5.target=java.lang.String\ nextName()
+comment5.text=\n\ Generates\ a\ name\ of\ length\ four\ of\ lowercase\ format\n\n
+comment6.params=
+comment6.target=long\ nextID()
+comment6.text=\n\ Generates\ a\ long\ number\ of\ length\ 8.\n\n
+numComments=7

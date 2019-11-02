@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Contact
+comment0.text=\n\ Contact\ class\ represents\ a\ contact\ notebook\ reference\ of\ an\ individual\ or\ person.\n\ Inherits\ the\ abstract\ Person\ class\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 15,2019\n
+comment1.params=lastName\ firstName
+comment1.target=Contact(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Contact\n
+comment2.params=lastName\ firstName\ number
+comment2.target=Contact(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=b
+comment3.target=int\ compareTo(Contact)
+comment3.text=\n\ Returns\ the\ difference\ between\ the\ names\ of\ the\ contacts\n\ The\ difference\ is\ 1\ if\ the\ Contact\ object\ being\ compared\n\ has\ an\ its\ last\ name\ has\ a\ word\ that\ comes\ after\n\ that\ of\ the\ last\ name\ of\ the\ variable\ of\ the\ method\ alphabetically\ or\ first\ names\n\ are\ compared\ if\ last\ names\ are\ the\ same\n\ and\ -1\ if\ condition\ is\ vice-versa.\ Returns\ zero\ if\ equal\n\n\ @return\ the\ difference\ between\ the\ names\ of\ workers\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Prints\ the\ Contact\ object\n\ \n\ @return\ the\ last\ and\ first\ name\ of\ a\ Contact\ object\ in\ paranthesis,\ separated\ by\ a\ comma\n
+comment5.params=c1\ c2
+comment5.target=int\ compare(Contact,\ Contact)
+numComments=6

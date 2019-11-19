@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SimulationController
+comment0.text=\n\ Class\ that\ controls\ the\ game\ and\ simulation.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 21,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\ of\ the\ program.\n\ \n\ Runs\ a\ for\ loop\ simulating\ the\ GlobalClock.tick()\ in\ the\ final\ program.\n
+comment10.params=g
+comment10.target=void\ update(java.awt.Graphics)
+comment2.params=filename
+comment2.target=SimulationController(java.lang.String)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ SimulationController\n
+comment3.params=runLoop
+comment3.target=void\ start(int)
+comment3.text=\n\ Begins\ the\ simulation\ for\ input\ number\ of\ loops\n\ \n\ @param\ runLoop\ number\ of\ times\ for\ loop\n
+comment4.params=map
+comment4.target=void\ createMap1(Map)
+comment5.params=map
+comment5.target=void\ createMap2(Map)
+comment6.params=map
+comment6.target=void\ createMap3(Map)
+comment7.params=value
+comment7.target=void\ reduceReserve(int)
+comment8.params=
+comment8.target=void\ resetReserve()
+comment9.params=g
+comment9.target=void\ paint(java.awt.Graphics)
+numComments=11

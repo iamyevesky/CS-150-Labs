@@ -1,0 +1,6 @@
+numOfSearchers,numOfDiggers,numOfMinerBuilders,numOfSuperMiners,numOfUltimateMiners,TotalGoldMined,Seed,DiedByLava,DiedByPit,DIedByRiver,Time
+5,5,5,5,1,6,3000,5,3,0,689
+5,5,5,5,1,6,3000,2,3,0,579
+5,5,5,5,1,15,3000,5,3,1,858
+5,5,5,5,1,5,3000,5,3,0,691
+5,5,5,5,1,6,3000,2,3,0,584

@@ -1,0 +1,4330 @@
++++Adding dwarfs to simulation+++
+
+Dwarf 0 has been added to simulation!
+Dwarf 1 has been added to simulation!
+Dwarf 2 has been added to simulation!
+Dwarf 3 has been added to simulation!
+Dwarf 4 has been added to simulation!
+Dwarf 5 has been added to simulation!
+Dwarf 6 has been added to simulation!
+Dwarf 7 has been added to simulation!
+Dwarf 8 has been added to simulation!
+Dwarf 9 has been added to simulation!
+Dwarf 10 has been added to simulation!
+Dwarf 11 has been added to simulation!
+Dwarf 12 has been added to simulation!
+Dwarf 13 has been added to simulation!
+Dwarf 14 has been added to simulation!
+Dwarf 15 has been added to simulation!
+Dwarf 16 has been added to simulation!
+Dwarf 17 has been added to simulation!
+Dwarf 18 has been added to simulation!
+Dwarf 19 has been added to simulation!
+Dwarf 20 has been added to simulation!
+Dwarf 21 has been added to simulation!
+Dwarf 22 has been added to simulation!
+Dwarf 23 has been added to simulation!
+Dwarf 24 has been added to simulation!
+Dwarf 25 has been added to simulation!
+===================================================
+
++++Starting simulation+++
++++Dwarfs about to start!+++
+
+===================================================
+
+Time 0
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,0)
+Dwarf 0(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 1
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,0)
+Dwarf 1(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 2
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,0)
+Dwarf 2(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 3
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,0)
+Dwarf 3(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 4
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,0)
+Dwarf 4(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 5
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,0)
+Dwarf 5(searcher) treks back. Moves from current position (0,0) to previous position (0,0).
+
+Time 6
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (0,0)
+Dwarf 6(digger) digs through rock at (1,0) and moves from (0,0) to (1,0).
+
+Time 7
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,0)
+Dwarf 7(digger) digs through rock at (0,1) and moves from (0,0) to (0,1).
+
+Time 8
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,0)
+Dwarf 8(digger) moves into tunnel from (0,0) to (0,1).
+
+Time 9
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,0)
+Dwarf 9(digger) moves into tunnel from (0,0) to (0,1).
+
+Time 10
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,0)
+Dwarf 10(digger) moves into tunnel from (0,0) to (0,1).
+
+Time 11
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (0,0)
+Dwarf 11(minerBuilder) moves into tunnel from (0,0) to (0,1).
+
+Time 12
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,0)
+Dwarf 12(minerBuilder) moves into tunnel from (0,0) to (0,1).
+
+Time 13
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,0)
+Dwarf 13(minerBuilder) moves into tunnel from (0,0) to (0,1).
+
+Time 14
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,0)
+Dwarf 14(minerBuilder) moves into tunnel from (0,0) to (0,1).
+
+Time 15
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,0)
+Dwarf 15(minerBuilder) moves into tunnel from (0,0) to (0,1).
+
+Time 16
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,0)
+Dwarf 16(superMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 17
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,0)
+Dwarf 17(superMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 18
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,0)
+Dwarf 18(superMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 19
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,0)
+Dwarf 19(superMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 20
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,0)
+Dwarf 20(superMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 21
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,0)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 22
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,0)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 23
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,0)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 24
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,0)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,0) to (0,1).
+
+Time 25
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,0)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,0) to (0,1).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 26
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (0,1)
+Dwarf 11(minerBuilder) digs through rock at (1,1) and moves from (0,1) to (1,1).
+
+Time 27
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,1)
+Dwarf 21(ultimateMiner) digs through rock at (0,2) and moves from (0,1) to (0,2).
+
+Time 28
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,1)
+Dwarf 7(digger) moves into tunnel from (0,1) to (0,2).
+
+Time 29
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,0)
+Dwarf 0(searcher) moves into tunnel from (0,0) to (0,1).
+
+Time 30
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,1)
+Dwarf 8(digger) moves into tunnel from (0,1) to (0,2).
+
+Time 31
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,1)
+Dwarf 13(minerBuilder) moves into tunnel from (0,1) to (0,2).
+
+Time 32
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,0)
+Dwarf 4(searcher) moves into tunnel from (0,0) to (0,1).
+
+Time 33
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,1)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 34
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,0)
+Dwarf 3(searcher) moves into tunnel from (0,0) to (0,1).
+
+Time 35
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,1)
+Dwarf 14(minerBuilder) moves into tunnel from (0,1) to (0,2).
+
+Time 36
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,1)
+Dwarf 15(minerBuilder) moves into tunnel from (0,1) to (0,2).
+
+Time 37
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,1)
+Dwarf 19(superMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 38
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,1)
+Dwarf 9(digger) moves into tunnel from (0,1) to (0,2).
+
+Time 39
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,1)
+Dwarf 18(superMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 40
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,1)
+Dwarf 16(superMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 41
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,1)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 42
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,1)
+Dwarf 17(superMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 43
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,1)
+Dwarf 10(digger) moves into tunnel from (0,1) to (0,2).
+
+Time 44
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,1)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 45
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,1)
+Dwarf 12(minerBuilder) moves into tunnel from (0,1) to (0,2).
+
+Time 46
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,0)
+Dwarf 5(searcher) moves into tunnel from (0,0) to (0,1).
+
+Time 47
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,1)
+Dwarf 20(superMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 48
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,1)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,1) to (0,2).
+
+Time 49
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (1,0)
+Dwarf 6(digger) digs through rock at (2,0) and moves from (1,0) to (2,0).
+
+Time 50
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,0)
+Dwarf 1(searcher) moves into tunnel from (0,0) to (0,1).
+
+Time 51
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,0)
+Dwarf 2(searcher) moves into tunnel from (0,0) to (0,1).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 52
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,2)
+Dwarf 18(superMiner) digs through rock at (0,3) and moves from (0,2) to (0,3).
+
+Time 53
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,2)
+Dwarf 14(minerBuilder) moves into tunnel from (0,2) to (0,3).
+
+Time 54
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (2,0)
+Dwarf 6(digger) digs through rock at (3,0) and moves from (2,0) to (3,0).
+
+Time 55
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,2)
+Dwarf 20(superMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 56
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (1,1)
+Dwarf 11(minerBuilder) flows down River from (1,1) to (1,4)
+Dwarf 11(minerBuilder) digs through rock at (2,4) and moves from (1,4) to (2,4).
+
+Time 57
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,2)
+Dwarf 12(minerBuilder) moves into tunnel from (0,2) to (0,3).
+
+Time 58
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,2)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 59
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,1)
+Dwarf 5(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 60
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,2)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 61
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,2)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 62
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,2)
+Dwarf 13(minerBuilder) moves into tunnel from (0,2) to (0,3).
+
+Time 63
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,2)
+Dwarf 9(digger) moves into tunnel from (0,2) to (0,3).
+
+Time 64
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,2)
+Dwarf 7(digger) moves into tunnel from (0,2) to (0,3).
+
+Time 65
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,2)
+Dwarf 10(digger) moves into tunnel from (0,2) to (0,3).
+
+Time 66
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,1)
+Dwarf 3(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 67
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,2)
+Dwarf 15(minerBuilder) moves into tunnel from (0,2) to (0,3).
+
+Time 68
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,2)
+Dwarf 16(superMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 69
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,1)
+Dwarf 0(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 70
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,2)
+Dwarf 8(digger) moves into tunnel from (0,2) to (0,3).
+
+Time 71
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,1)
+Dwarf 2(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 72
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,1)
+Dwarf 4(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 73
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,2)
+Dwarf 17(superMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 74
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,2)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 75
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,1)
+Dwarf 1(searcher) moves into tunnel from (0,1) to (0,2).
+
+Time 76
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,2)
+Dwarf 19(superMiner) moves into tunnel from (0,2) to (0,3).
+
+Time 77
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,2)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,2) to (0,3).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 78
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,3)
+Dwarf 18(superMiner) digs through rock at (0,4) and moves from (0,3) to (0,4).
+
+Time 79
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (2,4)
+Dwarf 11(minerBuilder) digs through rock at (3,4) and moves from (2,4) to (3,4).
+
+Time 80
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,3)
+Dwarf 17(superMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 81
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,3)
+Dwarf 9(digger) moves into tunnel from (0,3) to (0,4).
+
+Time 82
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,3)
+Dwarf 19(superMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 83
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,2)
+Dwarf 3(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 84
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,2)
+Dwarf 4(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 85
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,3)
+Dwarf 12(minerBuilder) moves into tunnel from (0,3) to (0,4).
+
+Time 86
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,3)
+Dwarf 15(minerBuilder) moves into tunnel from (0,3) to (0,4).
+
+Time 87
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,3)
+Dwarf 8(digger) moves into tunnel from (0,3) to (0,4).
+
+Time 88
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,3)
+Dwarf 20(superMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 89
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,2)
+Dwarf 2(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 90
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (3,0)
+Dwarf 6(digger) digs through rock at (4,0) and moves from (3,0) to (4,0).
+
+Time 91
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,3)
+Dwarf 14(minerBuilder) moves into tunnel from (0,3) to (0,4).
+
+Time 92
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,3)
+Dwarf 7(digger) moves into tunnel from (0,3) to (0,4).
+
+Time 93
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,2)
+Dwarf 5(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 94
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,3)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 95
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,3)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 96
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,2)
+Dwarf 1(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 97
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,3)
+Dwarf 10(digger) moves into tunnel from (0,3) to (0,4).
+
+Time 98
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,3)
+Dwarf 13(minerBuilder) moves into tunnel from (0,3) to (0,4).
+
+Time 99
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,3)
+Dwarf 16(superMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 100
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,2)
+Dwarf 0(searcher) moves into tunnel from (0,2) to (0,3).
+
+Time 101
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,3)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 102
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,3)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,3) to (0,4).
+
+Time 103
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,3)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,3) to (0,4).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 104
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,3)
+Dwarf 2(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 105
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,4)
+Dwarf 15(minerBuilder) digs through rock at (0,5) and moves from (0,4) to (0,5).
+
+Time 106
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,4)
+Dwarf 9(digger) moves into tunnel from (0,4) to (0,5).
+
+Time 107
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,4)
+Dwarf 13(minerBuilder) moves into tunnel from (0,4) to (0,5).
+
+Time 108
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,3)
+Dwarf 5(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 109
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,4)
+Dwarf 18(superMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 110
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,4)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 111
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,4)
+Dwarf 7(digger) moves into tunnel from (0,4) to (0,5).
+
+Time 112
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (4,0)
+Dwarf 6(digger) digs through rock at (5,0) and moves from (4,0) to (5,0).
+
+Time 113
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,4)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 114
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,4)
+Dwarf 19(superMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 115
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,4)
+Dwarf 10(digger) moves into tunnel from (0,4) to (0,5).
+
+Time 116
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,3)
+Dwarf 1(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 117
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,4)
+Dwarf 8(digger) moves into tunnel from (0,4) to (0,5).
+
+Time 118
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,3)
+Dwarf 3(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 119
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,4)
+Dwarf 12(minerBuilder) moves into tunnel from (0,4) to (0,5).
+
+Time 120
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (3,4)
+Dwarf 11(minerBuilder) digs through rock at (4,4) and moves from (3,4) to (4,4).
+
+Time 121
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,4)
+Dwarf 16(superMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 122
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,4)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 123
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,4)
+Dwarf 17(superMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 124
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,4)
+Dwarf 20(superMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 125
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,4)
+Dwarf 14(minerBuilder) moves into tunnel from (0,4) to (0,5).
+
+Time 126
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,3)
+Dwarf 4(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 127
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,3)
+Dwarf 0(searcher) moves into tunnel from (0,3) to (0,4).
+
+Time 128
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,4)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,4) to (0,5).
+
+Time 129
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,4)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,4) to (0,5).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 130
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,4)
+Dwarf 2(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 131
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,5)
+Dwarf 13(minerBuilder) digs through rock at (0,6) and moves from (0,5) to (0,6).
+
+Time 132
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,5)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 133
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,5)
+Dwarf 15(minerBuilder) moves into tunnel from (0,5) to (0,6).
+
+Time 134
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,5)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 135
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,5)
+Dwarf 18(superMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 136
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,5)
+Dwarf 20(superMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 137
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,5)
+Dwarf 16(superMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 138
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,4)
+Dwarf 3(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 139
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,5)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 140
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (5,0)
+Dwarf 6(digger) digs through rock at (6,0) and moves from (5,0) to (6,0).
+
+Time 141
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,5)
+Dwarf 7(digger) moves into tunnel from (0,5) to (0,6).
+
+Time 142
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,4)
+Dwarf 5(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 143
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,5)
+Dwarf 19(superMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 144
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,4)
+Dwarf 1(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 145
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,5)
+Dwarf 8(digger) moves into tunnel from (0,5) to (0,6).
+
+Time 146
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,5)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 147
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,5)
+Dwarf 9(digger) moves into tunnel from (0,5) to (0,6).
+
+Time 148
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,4)
+Dwarf 4(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 149
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,4)
+Dwarf 0(searcher) moves into tunnel from (0,4) to (0,5).
+
+Time 150
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (4,4)
+Dwarf 11(minerBuilder) digs through rock at (5,4) and moves from (4,4) to (5,4).
+
+Time 151
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,5)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,5) to (0,6).
+
+Time 152
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,5)
+Dwarf 12(minerBuilder) moves into tunnel from (0,5) to (0,6).
+
+Time 153
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,5)
+Dwarf 14(minerBuilder) moves into tunnel from (0,5) to (0,6).
+
+Time 154
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,5)
+Dwarf 10(digger) moves into tunnel from (0,5) to (0,6).
+
+Time 155
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,5)
+Dwarf 17(superMiner) moves into tunnel from (0,5) to (0,6).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 156
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,6)
+Dwarf 18(superMiner) digs through rock at (0,7) and moves from (0,6) to (0,7).
+
+Time 157
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,6)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 158
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,6)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 159
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,6)
+Dwarf 9(digger) moves into tunnel from (0,6) to (0,7).
+
+Time 160
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,6)
+Dwarf 12(minerBuilder) moves into tunnel from (0,6) to (0,7).
+
+Time 161
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,5)
+Dwarf 1(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 162
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,5)
+Dwarf 3(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 163
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,6)
+Dwarf 16(superMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 164
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,6)
+Dwarf 19(superMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 165
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,6)
+Dwarf 14(minerBuilder) moves into tunnel from (0,6) to (0,7).
+
+Time 166
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (6,0)
+Dwarf 6(digger) digs through rock at (7,0) and moves from (6,0) to (7,0).
+
+Time 167
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,6)
+Dwarf 20(superMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 168
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,5)
+Dwarf 2(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 169
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,6)
+Dwarf 13(minerBuilder) moves into tunnel from (0,6) to (0,7).
+
+Time 170
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,6)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 171
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,6)
+Dwarf 8(digger) moves into tunnel from (0,6) to (0,7).
+
+Time 172
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,6)
+Dwarf 17(superMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 173
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,6)
+Dwarf 15(minerBuilder) moves into tunnel from (0,6) to (0,7).
+
+Time 174
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,6)
+Dwarf 7(digger) moves into tunnel from (0,6) to (0,7).
+
+Time 175
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,6)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,6) to (0,7).
+
+Time 176
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,6)
+Dwarf 10(digger) moves into tunnel from (0,6) to (0,7).
+
+Time 177
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,5)
+Dwarf 5(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 178
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,5)
+Dwarf 0(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 179
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (5,4)
+Dwarf 11(minerBuilder) digs through rock at (6,4) and moves from (5,4) to (6,4).
+
+Time 180
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,5)
+Dwarf 4(searcher) moves into tunnel from (0,5) to (0,6).
+
+Time 181
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,6)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,6) to (0,7).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 182
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,7)
+Dwarf 8(digger) digs through rock at (0,8) and moves from (0,7) to (0,8).
+
+Time 183
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,6)
+Dwarf 5(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 184
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,7)
+Dwarf 14(minerBuilder) moves into tunnel from (0,7) to (0,8).
+
+Time 185
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,6)
+Dwarf 4(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 186
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,7)
+Dwarf 19(superMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 187
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,7)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 188
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,7)
+Dwarf 10(digger) moves into tunnel from (0,7) to (0,8).
+
+Time 189
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,7)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 190
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,7)
+Dwarf 15(minerBuilder) moves into tunnel from (0,7) to (0,8).
+
+Time 191
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,7)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 192
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,7)
+Dwarf 18(superMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 193
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (6,4)
+Dwarf 11(minerBuilder) digs through rock at (7,4) and moves from (6,4) to (7,4).
+
+Time 194
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,7)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 195
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,7)
+Dwarf 12(minerBuilder) moves into tunnel from (0,7) to (0,8).
+
+Time 196
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,6)
+Dwarf 2(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 197
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,7)
+Dwarf 17(superMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 198
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,6)
+Dwarf 1(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 199
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,7)
+Dwarf 7(digger) moves into tunnel from (0,7) to (0,8).
+
+Time 200
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,6)
+Dwarf 0(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 201
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,7)
+Dwarf 13(minerBuilder) moves into tunnel from (0,7) to (0,8).
+
+Time 202
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (7,0)
+Dwarf 6(digger) digs through rock at (8,0) and moves from (7,0) to (8,0).
+
+Time 203
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,7)
+Dwarf 20(superMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 204
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,7)
+Dwarf 9(digger) moves into tunnel from (0,7) to (0,8).
+
+Time 205
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,7)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,7) to (0,8).
+
+Time 206
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,6)
+Dwarf 3(searcher) moves into tunnel from (0,6) to (0,7).
+
+Time 207
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,7)
+Dwarf 16(superMiner) moves into tunnel from (0,7) to (0,8).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 208
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,7)
+Dwarf 2(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 209
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (8,0)
+Dwarf 6(digger) digs through rock at (9,0) and moves from (8,0) to (9,0).
+
+Time 210
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,8)
+Dwarf 23(ultimateMiner) digs through rock at (0,9) and moves from (0,8) to (0,9).
+
+Time 211
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,8)
+Dwarf 10(digger) moves into tunnel from (0,8) to (0,9).
+
+Time 212
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,7)
+Dwarf 3(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 213
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,8)
+Dwarf 8(digger) moves into tunnel from (0,8) to (0,9).
+
+Time 214
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,8)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 215
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,8)
+Dwarf 14(minerBuilder) moves into tunnel from (0,8) to (0,9).
+
+Time 216
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,8)
+Dwarf 16(superMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 217
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,8)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 218
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,8)
+Dwarf 17(superMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 219
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,8)
+Dwarf 12(minerBuilder) moves into tunnel from (0,8) to (0,9).
+
+Time 220
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,8)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 221
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,8)
+Dwarf 7(digger) moves into tunnel from (0,8) to (0,9).
+
+Time 222
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,8)
+Dwarf 18(superMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 223
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,8)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 224
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,8)
+Dwarf 19(superMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 225
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,7)
+Dwarf 5(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 226
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (7,4)
+Dwarf 11(minerBuilder) digs through rock at (8,4) and moves from (7,4) to (8,4).
+
+Time 227
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,8)
+Dwarf 13(minerBuilder) moves into tunnel from (0,8) to (0,9).
+
+Time 228
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,7)
+Dwarf 0(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 229
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,8)
+Dwarf 15(minerBuilder) moves into tunnel from (0,8) to (0,9).
+
+Time 230
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,8)
+Dwarf 20(superMiner) moves into tunnel from (0,8) to (0,9).
+
+Time 231
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,7)
+Dwarf 1(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 232
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,7)
+Dwarf 4(searcher) moves into tunnel from (0,7) to (0,8).
+
+Time 233
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,8)
+Dwarf 9(digger) moves into tunnel from (0,8) to (0,9).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 234
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (8,4)
+Dwarf 11(minerBuilder) digs through rock at (9,4) and moves from (8,4) to (9,4).
+
+Time 235
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,9)
+Dwarf 17(superMiner) digs through rock at (0,10) and moves from (0,9) to (0,10).
+
+Time 236
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,8)
+Dwarf 0(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 237
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,9)
+Dwarf 9(digger) moves into tunnel from (0,9) to (0,10).
+
+Time 238
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,8)
+Dwarf 3(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 239
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (9,0)
+Dwarf 6(digger) digs through rock at (10,0) and moves from (9,0) to (10,0).
+
+Time 240
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,9)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 241
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,9)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 242
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,9)
+Dwarf 8(digger) moves into tunnel from (0,9) to (0,10).
+
+Time 243
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,9)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 244
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,8)
+Dwarf 5(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 245
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,8)
+Dwarf 4(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 246
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,9)
+Dwarf 20(superMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 247
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,9)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 248
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,9)
+Dwarf 10(digger) moves into tunnel from (0,9) to (0,10).
+
+Time 249
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,9)
+Dwarf 15(minerBuilder) moves into tunnel from (0,9) to (0,10).
+
+Time 250
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,8)
+Dwarf 2(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 251
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,9)
+Dwarf 13(minerBuilder) moves into tunnel from (0,9) to (0,10).
+
+Time 252
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,9)
+Dwarf 7(digger) moves into tunnel from (0,9) to (0,10).
+
+Time 253
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,9)
+Dwarf 12(minerBuilder) moves into tunnel from (0,9) to (0,10).
+
+Time 254
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,8)
+Dwarf 1(searcher) moves into tunnel from (0,8) to (0,9).
+
+Time 255
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,9)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 256
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,9)
+Dwarf 19(superMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 257
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,9)
+Dwarf 14(minerBuilder) moves into tunnel from (0,9) to (0,10).
+
+Time 258
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,9)
+Dwarf 16(superMiner) moves into tunnel from (0,9) to (0,10).
+
+Time 259
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,9)
+Dwarf 18(superMiner) moves into tunnel from (0,9) to (0,10).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 260
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,10)
+Dwarf 10(digger) digs through rock at (0,11) and moves from (0,10) to (0,11).
+
+Time 261
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,10)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 262
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,10)
+Dwarf 22(ultimateMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 263
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,10)
+Dwarf 16(superMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 264
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,10)
+Dwarf 18(superMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 265
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,10)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 266
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,10)
+Dwarf 15(minerBuilder) moves into tunnel from (0,10) to (0,11).
+
+Time 267
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,10)
+Dwarf 17(superMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 268
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,9)
+Dwarf 2(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 269
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (9,4)
+Dwarf 11(minerBuilder) digs through rock at (10,4) and moves from (9,4) to (10,4).
+
+Time 270
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,10)
+Dwarf 13(minerBuilder) moves into tunnel from (0,10) to (0,11).
+
+Time 271
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,9)
+Dwarf 5(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 272
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,10)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 273
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,10)
+Dwarf 9(digger) moves into tunnel from (0,10) to (0,11).
+
+Time 274
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,9)
+Dwarf 3(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 275
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,9)
+Dwarf 0(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 276
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,9)
+Dwarf 1(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 277
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,10)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 278
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,10)
+Dwarf 8(digger) moves into tunnel from (0,10) to (0,11).
+
+Time 279
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,9)
+Dwarf 4(searcher) moves into tunnel from (0,9) to (0,10).
+
+Time 280
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (10,0)
+Dwarf 6(digger) digs through rock at (11,0) and moves from (10,0) to (11,0).
+
+Time 281
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,10)
+Dwarf 7(digger) moves into tunnel from (0,10) to (0,11).
+
+Time 282
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,10)
+Dwarf 12(minerBuilder) moves into tunnel from (0,10) to (0,11).
+
+Time 283
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,10)
+Dwarf 19(superMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 284
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,10)
+Dwarf 20(superMiner) moves into tunnel from (0,10) to (0,11).
+
+Time 285
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,10)
+Dwarf 14(minerBuilder) moves into tunnel from (0,10) to (0,11).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 286
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,10)
+Dwarf 2(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 287
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (0,11)
+Dwarf 22(ultimateMiner) digs through rock at (1,11) and moves from (0,11) to (1,11).
+
+Time 288
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,11)
+Dwarf 13(minerBuilder) digs through rock at (0,12) and moves from (0,11) to (0,12).
+
+Time 289
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,11)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 290
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,11)
+Dwarf 12(minerBuilder) moves into tunnel from (0,11) to (0,12).
+
+Time 291
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,10)
+Dwarf 4(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 292
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,10)
+Dwarf 5(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 293
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,11)
+Dwarf 9(digger) moves into tunnel from (0,11) to (0,12).
+
+Time 294
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,11)
+Dwarf 19(superMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 295
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,11)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 296
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,10)
+Dwarf 1(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 297
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,11)
+Dwarf 16(superMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 298
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,11)
+Dwarf 14(minerBuilder) moves into tunnel from (0,11) to (0,12).
+
+Time 299
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,10)
+Dwarf 3(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 300
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,11)
+Dwarf 7(digger) moves into tunnel from (0,11) to (0,12).
+
+Time 301
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,11)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 302
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,11)
+Dwarf 18(superMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 303
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,11)
+Dwarf 8(digger) moves into tunnel from (0,11) to (0,12).
+
+Time 304
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,11)
+Dwarf 15(minerBuilder) moves into tunnel from (0,11) to (0,12).
+
+Time 305
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,10)
+Dwarf 0(searcher) moves into tunnel from (0,10) to (0,11).
+
+Time 306
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (11,0)
+Dwarf 6(digger) digs through rock at (12,0) and moves from (11,0) to (12,0).
+
+Time 307
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,11)
+Dwarf 10(digger) moves into tunnel from (0,11) to (0,12).
+
+Time 308
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (10,4)
+Dwarf 11(minerBuilder) digs through rock at (11,4) and moves from (10,4) to (11,4).
+
+Time 309
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,11)
+Dwarf 17(superMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 310
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,11)
+Dwarf 20(superMiner) moves into tunnel from (0,11) to (0,12).
+
+Time 311
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,11)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,11) to (0,12).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 312
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,11)
+Dwarf 3(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 313
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (0,12)
+Dwarf 18(superMiner) digs through rock at (1,12) and moves from (0,12) to (1,12).
+
+Time 314
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (12,0)
+Dwarf 6(digger) digs through rock at (13,0) and moves from (12,0) to (13,0).
+
+Time 315
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,12)
+Dwarf 23(ultimateMiner) digs through rock at (0,13) and moves from (0,12) to (0,13).
+
+Time 316
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,12)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 317
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,12)
+Dwarf 9(digger) moves into tunnel from (0,12) to (0,13).
+
+Time 318
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,12)
+Dwarf 16(superMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 319
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,12)
+Dwarf 15(minerBuilder) moves into tunnel from (0,12) to (0,13).
+
+Time 320
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,11)
+Dwarf 0(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 321
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (11,4)
+Dwarf 11(minerBuilder) digs through rock at (12,4) and moves from (11,4) to (12,4).
+
+Time 322
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,12)
+Dwarf 13(minerBuilder) moves into tunnel from (0,12) to (0,13).
+
+Time 323
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,12)
+Dwarf 19(superMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 324
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,11)
+Dwarf 1(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 325
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,11)
+Dwarf 5(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 326
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,12)
+Dwarf 10(digger) moves into tunnel from (0,12) to (0,13).
+
+Time 327
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,12)
+Dwarf 14(minerBuilder) moves into tunnel from (0,12) to (0,13).
+
+Time 328
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,12)
+Dwarf 20(superMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 329
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,11)
+Dwarf 4(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 330
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,12)
+Dwarf 12(minerBuilder) moves into tunnel from (0,12) to (0,13).
+
+Time 331
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,11)
+Dwarf 2(searcher) moves into tunnel from (0,11) to (0,12).
+
+Time 332
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (1,11)
+Dwarf 22(ultimateMiner) digs through rock at (2,11) and moves from (1,11) to (2,11).
+
+Time 333
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,12)
+Dwarf 17(superMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 334
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,12)
+Dwarf 7(digger) moves into tunnel from (0,12) to (0,13).
+
+Time 335
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,12)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,12) to (0,13).
+
+Time 336
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,12)
+Dwarf 8(digger) moves into tunnel from (0,12) to (0,13).
+
+Time 337
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,12)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,12) to (0,13).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 338
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (0,13)
+Dwarf 12(minerBuilder) digs through rock at (1,13) and moves from (0,13) to (1,13).
+
+Time 339
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,12)
+Dwarf 0(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 340
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,13)
+Dwarf 23(ultimateMiner) digs through rock at (0,14) and moves from (0,13) to (0,14).
+
+Time 341
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,12)
+Dwarf 1(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 342
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (13,0)
+Dwarf 6(digger) digs through rock at (14,0) and moves from (13,0) to (14,0).
+
+Time 343
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,13)
+Dwarf 15(minerBuilder) moves into tunnel from (0,13) to (0,14).
+
+Time 344
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,13)
+Dwarf 9(digger) moves into tunnel from (0,13) to (0,14).
+
+Time 345
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,12)
+Dwarf 4(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 346
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,12)
+Dwarf 5(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 347
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,13)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 348
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,13)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 349
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,13)
+Dwarf 17(superMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 350
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (1,12)
+Dwarf 18(superMiner) digs through rock at (2,12) and moves from (1,12) to (2,12).
+
+Time 351
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (12,4)
+Dwarf 11(minerBuilder) digs through rock at (13,4) and moves from (12,4) to (13,4).
+
+Time 352
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,12)
+Dwarf 2(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 353
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,13)
+Dwarf 13(minerBuilder) moves into tunnel from (0,13) to (0,14).
+
+Time 354
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,13)
+Dwarf 10(digger) moves into tunnel from (0,13) to (0,14).
+
+Time 355
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,13)
+Dwarf 7(digger) moves into tunnel from (0,13) to (0,14).
+
+Time 356
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,13)
+Dwarf 19(superMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 357
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,13)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 358
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,13)
+Dwarf 16(superMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 359
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (2,11)
+Dwarf 22(ultimateMiner) digs through rock at (3,11) and moves from (2,11) to (3,11).
+
+Time 360
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,12)
+Dwarf 3(searcher) moves into tunnel from (0,12) to (0,13).
+
+Time 361
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,13)
+Dwarf 20(superMiner) moves into tunnel from (0,13) to (0,14).
+
+Time 362
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,13)
+Dwarf 8(digger) moves into tunnel from (0,13) to (0,14).
+
+Time 363
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,13)
+Dwarf 14(minerBuilder) moves into tunnel from (0,13) to (0,14).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 364
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (0,14)
+Dwarf 17(superMiner) digs through rock at (1,14) and moves from (0,14) to (1,14).
+
+Time 365
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,14)
+Dwarf 13(minerBuilder) digs through rock at (0,15) and moves from (0,14) to (0,15).
+
+Time 366
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,14)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 367
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (14,0)
+Dwarf 6(digger) digs through rock at (15,0) and moves from (14,0) to (15,0).
+
+Time 368
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,14)
+Dwarf 10(digger) moves into tunnel from (0,14) to (0,15).
+
+Time 369
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,13)
+Dwarf 0(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 370
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (13,4)
+Dwarf 11(minerBuilder) digs through rock at (14,4) and moves from (13,4) to (14,4).
+
+Time 371
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,13)
+Dwarf 4(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 372
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,13)
+Dwarf 5(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 373
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,13)
+Dwarf 3(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 374
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,14)
+Dwarf 9(digger) moves into tunnel from (0,14) to (0,15).
+
+Time 375
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,14)
+Dwarf 15(minerBuilder) moves into tunnel from (0,14) to (0,15).
+
+Time 376
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,14)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 377
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,14)
+Dwarf 7(digger) moves into tunnel from (0,14) to (0,15).
+
+Time 378
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,14)
+Dwarf 14(minerBuilder) moves into tunnel from (0,14) to (0,15).
+
+Time 379
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (3,11)
+Dwarf 22(ultimateMiner) digs through rock at (4,11) and moves from (3,11) to (4,11).
+
+Time 380
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (2,12)
+Dwarf 18(superMiner) digs through rock at (3,12) and moves from (2,12) to (3,12).
+
+Time 381
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,14)
+Dwarf 8(digger) moves into tunnel from (0,14) to (0,15).
+
+Time 382
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,14)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 383
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,13)
+Dwarf 2(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 384
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,13)
+Dwarf 1(searcher) moves into tunnel from (0,13) to (0,14).
+
+Time 385
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,14)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 386
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,14)
+Dwarf 16(superMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 387
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,14)
+Dwarf 19(superMiner) moves into tunnel from (0,14) to (0,15).
+
+Time 388
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (1,13)
+Dwarf 12(minerBuilder) digs through rock at (2,13) and moves from (1,13) to (2,13).
+
+Time 389
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,14)
+Dwarf 20(superMiner) moves into tunnel from (0,14) to (0,15).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 390
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (0,15)
+Dwarf 8(digger) digs through rock at (1,15) and moves from (0,15) to (1,15).
+
+Time 391
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,14)
+Dwarf 0(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 392
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,15)
+Dwarf 19(superMiner) digs through rock at (0,16) and moves from (0,15) to (0,16).
+
+Time 393
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (15,0)
+Dwarf 6(digger) digs through rock at (16,0) and moves from (15,0) to (16,0).
+
+Time 394
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,15)
+Dwarf 10(digger) moves into tunnel from (0,15) to (0,16).
+
+Time 395
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (1,14)
+Dwarf 17(superMiner) digs through rock at (2,14) and moves from (1,14) to (2,14).
+
+Time 396
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,15)
+Dwarf 9(digger) moves into tunnel from (0,15) to (0,16).
+
+Time 397
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,14)
+Dwarf 5(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 398
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,14)
+Dwarf 2(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 399
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,15)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 400
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (14,4)
+Dwarf 11(minerBuilder) digs through rock at (15,4) and moves from (14,4) to (15,4).
+
+Time 401
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,14)
+Dwarf 3(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 402
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,15)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 403
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,15)
+Dwarf 15(minerBuilder) moves into tunnel from (0,15) to (0,16).
+
+Time 404
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,14)
+Dwarf 4(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 405
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (4,11)
+Dwarf 22(ultimateMiner) digs through rock at (5,11) and moves from (4,11) to (5,11).
+
+Time 406
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (2,13)
+Dwarf 12(minerBuilder) digs through rock at (3,13) and moves from (2,13) to (3,13).
+
+Time 407
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,15)
+Dwarf 14(minerBuilder) moves into tunnel from (0,15) to (0,16).
+
+Time 408
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,14)
+Dwarf 1(searcher) moves into tunnel from (0,14) to (0,15).
+
+Time 409
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,15)
+Dwarf 20(superMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 410
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,15)
+Dwarf 25(ultimateMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 411
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,15)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 412
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (3,12)
+Dwarf 18(superMiner) digs through rock at (4,12) and moves from (3,12) to (4,12).
+
+Time 413
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,15)
+Dwarf 16(superMiner) moves into tunnel from (0,15) to (0,16).
+
+Time 414
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,15)
+Dwarf 7(digger) moves into tunnel from (0,15) to (0,16).
+
+Time 415
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,15)
+Dwarf 13(minerBuilder) moves into tunnel from (0,15) to (0,16).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 416
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (16,0)
+Dwarf 6(digger) digs through rock at (17,0) and moves from (16,0) to (17,0).
+
+Time 417
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (0,16)
+Dwarf 25(ultimateMiner) digs through rock at (1,16) and moves from (0,16) to (1,16).
+
+Time 418
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,15)
+Dwarf 0(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 419
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (1,15)
+Dwarf 8(digger) digs through rock at (2,15) and moves from (1,15) to (2,15).
+
+Time 420
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,16)
+Dwarf 20(superMiner) digs through rock at (0,17) and moves from (0,16) to (0,17).
+
+Time 421
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,16)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,16) to (0,17).
+
+Time 422
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (15,4)
+Dwarf 11(minerBuilder) digs through rock at (16,4) and moves from (15,4) to (16,4).
+
+Time 423
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,15)
+Dwarf 2(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 424
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (2,14)
+Dwarf 17(superMiner) digs through rock at (3,14) and moves from (2,14) to (3,14).
+
+Time 425
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,16)
+Dwarf 10(digger) moves into tunnel from (0,16) to (0,17).
+
+Time 426
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,16)
+Dwarf 7(digger) moves into tunnel from (0,16) to (0,17).
+
+Time 427
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,15)
+Dwarf 3(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 428
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,16)
+Dwarf 9(digger) moves into tunnel from (0,16) to (0,17).
+
+Time 429
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,16)
+Dwarf 19(superMiner) moves into tunnel from (0,16) to (0,17).
+
+Time 430
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,15)
+Dwarf 1(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 431
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (4,12)
+Dwarf 18(superMiner) digs through rock at (5,12) and moves from (4,12) to (5,12).
+
+Time 432
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,16)
+Dwarf 14(minerBuilder) moves into tunnel from (0,16) to (0,17).
+
+Time 433
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,16)
+Dwarf 13(minerBuilder) moves into tunnel from (0,16) to (0,17).
+
+Time 434
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (5,11)
+Dwarf 22(ultimateMiner) digs through rock at (6,11) and moves from (5,11) to (6,11).
+
+Time 435
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,16)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,16) to (0,17).
+
+Time 436
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,15)
+Dwarf 4(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 437
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,16)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,16) to (0,17).
+
+Time 438
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,15)
+Dwarf 5(searcher) moves into tunnel from (0,15) to (0,16).
+
+Time 439
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,16)
+Dwarf 16(superMiner) moves into tunnel from (0,16) to (0,17).
+
+Time 440
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,16)
+Dwarf 15(minerBuilder) moves into tunnel from (0,16) to (0,17).
+
+Time 441
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (3,13)
+Dwarf 12(minerBuilder) digs through rock at (4,13) and moves from (3,13) to (4,13).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 442
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (0,17)
+Dwarf 9(digger) digs through rock at (1,17) and moves from (0,17) to (1,17).
+
+Time 443
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (3,14)
+Dwarf 17(superMiner) digs gold!
+
+Time 444
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,16)
+Dwarf 3(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 445
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (6,11)
+Dwarf 22(ultimateMiner) digs through rock at (7,11) and moves from (6,11) to (7,11).
+
+Time 446
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (2,15)
+Dwarf 8(digger) digs through rock at (3,15) and moves from (2,15) to (3,15).
+
+Time 447
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,17)
+Dwarf 21(ultimateMiner) digs through rock at (0,18) and moves from (0,17) to (0,18).
+
+Time 448
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,17)
+Dwarf 14(minerBuilder) moves into tunnel from (0,17) to (0,18).
+
+Time 449
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (1,16)
+Dwarf 25(ultimateMiner) digs through rock at (2,16) and moves from (1,16) to (2,16).
+
+Time 450
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,17)
+Dwarf 20(superMiner) moves into tunnel from (0,17) to (0,18).
+
+Time 451
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,17)
+Dwarf 15(minerBuilder) moves into tunnel from (0,17) to (0,18).
+
+Time 452
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,17)
+Dwarf 19(superMiner) moves into tunnel from (0,17) to (0,18).
+
+Time 453
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,16)
+Dwarf 4(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 454
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,17)
+Dwarf 16(superMiner) moves into tunnel from (0,17) to (0,18).
+
+Time 455
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,16)
+Dwarf 2(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 456
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,16)
+Dwarf 5(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 457
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (17,0)
+Dwarf 6(digger) digs through rock at (18,0) and moves from (17,0) to (18,0).
+
+Time 458
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,17)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,17) to (0,18).
+
+Time 459
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,16)
+Dwarf 1(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 460
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (16,4)
+Dwarf 11(minerBuilder) digs through rock at (17,4) and moves from (16,4) to (17,4).
+
+Time 461
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,16)
+Dwarf 0(searcher) moves into tunnel from (0,16) to (0,17).
+
+Time 462
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,17)
+Dwarf 10(digger) moves into tunnel from (0,17) to (0,18).
+
+Time 463
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,17)
+Dwarf 7(digger) moves into tunnel from (0,17) to (0,18).
+
+Time 464
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,17)
+Dwarf 23(ultimateMiner) moves into tunnel from (0,17) to (0,18).
+
+Time 465
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (4,13)
+Dwarf 12(minerBuilder) digs through rock at (5,13) and moves from (4,13) to (5,13).
+
+Time 466
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (5,12)
+Dwarf 18(superMiner) digs through rock at (6,12) and moves from (5,12) to (6,12).
+
+Time 467
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,17)
+Dwarf 13(minerBuilder) moves into tunnel from (0,17) to (0,18).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 468
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (0,18)
+Dwarf 23(ultimateMiner) digs through rock at (1,18) and moves from (0,18) to (1,18).
+
+Time 469
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (3,14)
+Dwarf 17(superMiner) digs gold!
+
+Time 470
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,18)
+Dwarf 14(minerBuilder) digs through rock at (0,19) and moves from (0,18) to (0,19).
+
+Time 471
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (1,17)
+Dwarf 9(digger) digs through rock at (2,17) and moves from (1,17) to (2,17).
+
+Time 472
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,18)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,18) to (0,19).
+
+Time 473
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,17)
+Dwarf 3(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 474
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,17)
+Dwarf 5(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 475
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,17)
+Dwarf 0(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 476
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,18)
+Dwarf 20(superMiner) moves into tunnel from (0,18) to (0,19).
+
+Time 477
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,18)
+Dwarf 19(superMiner) moves into tunnel from (0,18) to (0,19).
+
+Time 478
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,18)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,18) to (0,19).
+
+Time 479
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,17)
+Dwarf 1(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 480
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (17,4)
+Dwarf 11(minerBuilder) digs through rock at (18,4) and moves from (17,4) to (18,4).
+
+Time 481
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,17)
+Dwarf 4(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 482
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (5,13)
+Dwarf 12(minerBuilder) digs through rock at (6,13) and moves from (5,13) to (6,13).
+
+Time 483
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,18)
+Dwarf 16(superMiner) moves into tunnel from (0,18) to (0,19).
+
+Time 484
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (7,11)
+Dwarf 22(ultimateMiner) digs through rock at (8,11) and moves from (7,11) to (8,11).
+
+Time 485
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,18)
+Dwarf 10(digger) moves into tunnel from (0,18) to (0,19).
+
+Time 486
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,18)
+Dwarf 7(digger) moves into tunnel from (0,18) to (0,19).
+
+Time 487
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (6,12)
+Dwarf 18(superMiner) digs through rock at (7,12) and moves from (6,12) to (7,12).
+
+Time 488
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,18)
+Dwarf 13(minerBuilder) moves into tunnel from (0,18) to (0,19).
+
+Time 489
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (3,15)
+Dwarf 8(digger) digs through rock at (4,15) and moves from (3,15) to (4,15).
+
+Time 490
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (18,0)
+Dwarf 6(digger) digs through rock at (19,0) and moves from (18,0) to (19,0).
+
+Time 491
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,18)
+Dwarf 15(minerBuilder) moves into tunnel from (0,18) to (0,19).
+
+Time 492
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,17)
+Dwarf 2(searcher) moves into tunnel from (0,17) to (0,18).
+
+Time 493
+
+Dwarf 25 about to go!
+Dwarf 25 current position = (2,16)
+Dwarf 25(ultimateMiner) falls into pit and dies!
+
+
+All dwarfs completed task!
+===================================================
+
+Time 494
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (18,4)
+Dwarf 11(minerBuilder) digs through rock at (19,4) and moves from (18,4) to (19,4).
+
+Time 495
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (0,19)
+Dwarf 16(superMiner) digs through rock at (1,19) and moves from (0,19) to (1,19).
+
+Time 496
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (3,14)
+Dwarf 17(superMiner) digs through rock at (4,14) and moves from (3,14) to (4,14).
+
+Time 497
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (4,15)
+Dwarf 8(digger) digs through rock at (5,15) and moves from (4,15) to (5,15).
+
+Time 498
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (6,13)
+Dwarf 12(minerBuilder) digs through rock at (7,13) and moves from (6,13) to (7,13).
+
+Time 499
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (2,17)
+Dwarf 9(digger) digs through rock at (3,17) and moves from (2,17) to (3,17).
+
+Time 500
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,19)
+Dwarf 21(ultimateMiner) digs through rock at (0,20) and moves from (0,19) to (0,20).
+
+Time 501
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (19,0)
+Dwarf 6(digger) digs through rock at (20,0) and moves from (19,0) to (20,0).
+
+Time 502
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (1,18)
+Dwarf 23(ultimateMiner) digs through rock at (2,18) and moves from (1,18) to (2,18).
+
+Time 503
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,19)
+Dwarf 15(minerBuilder) moves into tunnel from (0,19) to (0,20).
+
+Time 504
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,18)
+Dwarf 4(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 505
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,18)
+Dwarf 5(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 506
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,19)
+Dwarf 10(digger) moves into tunnel from (0,19) to (0,20).
+
+Time 507
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,18)
+Dwarf 2(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 508
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,18)
+Dwarf 1(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 509
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,19)
+Dwarf 20(superMiner) moves into tunnel from (0,19) to (0,20).
+
+Time 510
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,19)
+Dwarf 19(superMiner) moves into tunnel from (0,19) to (0,20).
+
+Time 511
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (8,11)
+Dwarf 22(ultimateMiner) digs through rock at (9,11) and moves from (8,11) to (9,11).
+
+Time 512
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,19)
+Dwarf 7(digger) moves into tunnel from (0,19) to (0,20).
+
+Time 513
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,18)
+Dwarf 0(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 514
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,19)
+Dwarf 14(minerBuilder) moves into tunnel from (0,19) to (0,20).
+
+Time 515
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,19)
+Dwarf 13(minerBuilder) moves into tunnel from (0,19) to (0,20).
+
+Time 516
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (7,12)
+Dwarf 18(superMiner) digs through rock at (8,12) and moves from (7,12) to (8,12).
+
+Time 517
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,18)
+Dwarf 3(searcher) moves into tunnel from (0,18) to (0,19).
+
+Time 518
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,19)
+Dwarf 24(ultimateMiner) moves into tunnel from (0,19) to (0,20).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 519
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (20,0)
+Dwarf 6(digger) digs through rock at (21,0) and moves from (20,0) to (21,0).
+
+Time 520
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (0,20)
+Dwarf 24(ultimateMiner) digs through rock at (1,20) and moves from (0,20) to (1,20).
+
+Time 521
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,20)
+Dwarf 15(minerBuilder) digs through rock at (0,21) and moves from (0,20) to (0,21).
+
+Time 522
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,20)
+Dwarf 20(superMiner) moves into tunnel from (0,20) to (0,21).
+
+Time 523
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (2,18)
+Dwarf 23(ultimateMiner) digs through rock at (3,18) and moves from (2,18) to (3,18).
+
+Time 524
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,20)
+Dwarf 14(minerBuilder) moves into tunnel from (0,20) to (0,21).
+
+Time 525
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (1,19)
+Dwarf 16(superMiner) digs through rock at (2,19) and moves from (1,19) to (2,19).
+
+Time 526
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,19)
+Dwarf 1(searcher) moves into tunnel from (0,19) to (0,20).
+
+Time 527
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,20)
+Dwarf 13(minerBuilder) moves into tunnel from (0,20) to (0,21).
+
+Time 528
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (4,14)
+Dwarf 17(superMiner) digs through rock at (5,14) and moves from (4,14) to (5,14).
+
+Time 529
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,20)
+Dwarf 21(ultimateMiner) moves into tunnel from (0,20) to (0,21).
+
+Time 530
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (7,13)
+Dwarf 12(minerBuilder) digs through rock at (8,13) and moves from (7,13) to (8,13).
+
+Time 531
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (8,12)
+Dwarf 18(superMiner) digs through rock at (9,12) and moves from (8,12) to (9,12).
+
+Time 532
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (9,11)
+Dwarf 22(ultimateMiner) digs through rock at (10,11) and moves from (9,11) to (10,11).
+
+Time 533
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (5,15)
+Dwarf 8(digger) digs through rock at (6,15) and moves from (5,15) to (6,15).
+
+Time 534
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,19)
+Dwarf 5(searcher) moves into tunnel from (0,19) to (0,20).
+
+Time 535
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (19,4)
+Dwarf 11(minerBuilder) digs through rock at (20,4) and moves from (19,4) to (20,4).
+
+Time 536
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,19)
+Dwarf 2(searcher) moves into tunnel from (0,19) to (0,20).
+
+Time 537
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (3,17)
+Dwarf 9(digger) digs through rock at (4,17) and moves from (3,17) to (4,17).
+
+Time 538
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,19)
+Dwarf 3(searcher) moves into tunnel from (0,19) to (0,20).
+
+Time 539
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,20)
+Dwarf 19(superMiner) moves into tunnel from (0,20) to (0,21).
+
+Time 540
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,20)
+Dwarf 7(digger) moves into tunnel from (0,20) to (0,21).
+
+Time 541
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,19)
+Dwarf 0(searcher) moves into tunnel from (0,19) to (0,20).
+
+Time 542
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,20)
+Dwarf 10(digger) moves into tunnel from (0,20) to (0,21).
+
+Time 543
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,19)
+Dwarf 4(searcher) moves into tunnel from (0,19) to (0,20).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 544
+
+Dwarf 8 about to go!
+Dwarf 8 current position = (6,15)
+Dwarf 8(digger) falls into pit and dies!
+
+Time 545
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,20)
+Dwarf 2(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 546
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (0,21)
+Dwarf 21(ultimateMiner) digs through rock at (1,21) and moves from (0,21) to (1,21).
+
+Time 547
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,20)
+Dwarf 3(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 548
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (1,20)
+Dwarf 24(ultimateMiner) digs through rock at (2,20) and moves from (1,20) to (2,20).
+
+Time 549
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,20)
+Dwarf 5(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 550
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,21)
+Dwarf 19(superMiner) digs through rock at (0,22) and moves from (0,21) to (0,22).
+
+Time 551
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,20)
+Dwarf 0(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 552
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,21)
+Dwarf 15(minerBuilder) moves into tunnel from (0,21) to (0,22).
+
+Time 553
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (2,19)
+Dwarf 16(superMiner) digs through rock at (3,19) and moves from (2,19) to (3,19).
+
+Time 554
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (10,11)
+Dwarf 22(ultimateMiner) digs through rock at (11,11) and moves from (10,11) to (11,11).
+
+Time 555
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (21,0)
+Dwarf 6(digger) digs through rock at (22,0) and moves from (21,0) to (22,0).
+
+Time 556
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,20)
+Dwarf 4(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 557
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (20,4)
+Dwarf 11(minerBuilder) digs through rock at (21,4) and moves from (20,4) to (21,4).
+
+Time 558
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,21)
+Dwarf 10(digger) moves into tunnel from (0,21) to (0,22).
+
+Time 559
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,21)
+Dwarf 7(digger) moves into tunnel from (0,21) to (0,22).
+
+Time 560
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (4,17)
+Dwarf 9(digger) digs through rock at (5,17) and moves from (4,17) to (5,17).
+
+Time 561
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (5,14)
+Dwarf 17(superMiner) digs through rock at (6,14) and moves from (5,14) to (6,14).
+
+Time 562
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,21)
+Dwarf 14(minerBuilder) moves into tunnel from (0,21) to (0,22).
+
+Time 563
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,21)
+Dwarf 20(superMiner) moves into tunnel from (0,21) to (0,22).
+
+Time 564
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,20)
+Dwarf 1(searcher) moves into tunnel from (0,20) to (0,21).
+
+Time 565
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (8,13)
+Dwarf 12(minerBuilder) digs through rock at (9,13) and moves from (8,13) to (9,13).
+
+Time 566
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,21)
+Dwarf 13(minerBuilder) moves into tunnel from (0,21) to (0,22).
+
+Time 567
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (3,18)
+Dwarf 23(ultimateMiner) digs through rock at (4,18) and moves from (3,18) to (4,18).
+
+Time 568
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (9,12)
+Dwarf 18(superMiner) digs through rock at (10,12) and moves from (9,12) to (10,12).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 569
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (0,22)
+Dwarf 20(superMiner) digs through rock at (1,22) and moves from (0,22) to (1,22).
+
+Time 570
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,21)
+Dwarf 1(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 571
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,22)
+Dwarf 14(minerBuilder) digs through rock at (0,23) and moves from (0,22) to (0,23).
+
+Time 572
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,21)
+Dwarf 4(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 573
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (3,19)
+Dwarf 16(superMiner) digs through rock at (4,19) and moves from (3,19) to (4,19).
+
+Time 574
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (6,14)
+Dwarf 17(superMiner) digs through rock at (7,14) and moves from (6,14) to (7,14).
+
+Time 575
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (4,18)
+Dwarf 23(ultimateMiner) digs through rock at (5,18) and moves from (4,18) to (5,18).
+
+Time 576
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,22)
+Dwarf 19(superMiner) moves into tunnel from (0,22) to (0,23).
+
+Time 577
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (11,11)
+Dwarf 22(ultimateMiner) digs through rock at (12,11) and moves from (11,11) to (12,11).
+
+Time 578
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,21)
+Dwarf 3(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 579
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (2,20)
+Dwarf 24(ultimateMiner) digs through rock at (3,20) and moves from (2,20) to (3,20).
+
+Time 580
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (10,12)
+Dwarf 18(superMiner) digs through rock at (11,12) and moves from (10,12) to (11,12).
+
+Time 581
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (1,21)
+Dwarf 21(ultimateMiner) digs through rock at (2,21) and moves from (1,21) to (2,21).
+
+Time 582
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (21,4)
+Dwarf 11(minerBuilder) digs through rock at (22,4) and moves from (21,4) to (22,4).
+
+Time 583
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (5,17)
+Dwarf 9(digger) digs through rock at (6,17) and moves from (5,17) to (6,17).
+
+Time 584
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,21)
+Dwarf 2(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 585
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,21)
+Dwarf 5(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 586
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,22)
+Dwarf 13(minerBuilder) moves into tunnel from (0,22) to (0,23).
+
+Time 587
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,22)
+Dwarf 15(minerBuilder) moves into tunnel from (0,22) to (0,23).
+
+Time 588
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,22)
+Dwarf 10(digger) moves into tunnel from (0,22) to (0,23).
+
+Time 589
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (9,13)
+Dwarf 12(minerBuilder) digs through rock at (10,13) and moves from (9,13) to (10,13).
+
+Time 590
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,21)
+Dwarf 0(searcher) moves into tunnel from (0,21) to (0,22).
+
+Time 591
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,22)
+Dwarf 7(digger) moves into tunnel from (0,22) to (0,23).
+
+Time 592
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (22,0)
+Dwarf 6(digger) digs through rock at (23,0) and moves from (22,0) to (23,0).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 593
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,22)
+Dwarf 0(searcher) moves into tunnel from (0,22) to (0,23).
+
+Time 594
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (2,21)
+Dwarf 21(ultimateMiner) digs through rock at (3,21) and moves from (2,21) to (3,21).
+
+Time 595
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (0,23)
+Dwarf 13(minerBuilder) digs through rock at (1,23) and moves from (0,23) to (1,23).
+
+Time 596
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (7,14)
+Dwarf 17(superMiner) digs through rock at (8,14) and moves from (7,14) to (8,14).
+
+Time 597
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (5,18)
+Dwarf 23(ultimateMiner) digs through rock at (6,18) and moves from (5,18) to (6,18).
+
+Time 598
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,22)
+Dwarf 3(searcher) moves into tunnel from (0,22) to (0,23).
+
+Time 599
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,23)
+Dwarf 10(digger) digs through rock at (0,24) and moves from (0,23) to (0,24).
+
+Time 600
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,22)
+Dwarf 5(searcher) moves into tunnel from (0,22) to (0,23).
+
+Time 601
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (1,22)
+Dwarf 20(superMiner) digs through rock at (2,22) and moves from (1,22) to (2,22).
+
+Time 602
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (6,17)
+Dwarf 9(digger) digs through rock at (7,17) and moves from (6,17) to (7,17).
+
+Time 603
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (10,13)
+Dwarf 12(minerBuilder) digs through rock at (11,13) and moves from (10,13) to (11,13).
+
+Time 604
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (12,11)
+Dwarf 22(ultimateMiner) digs through rock at (13,11) and moves from (12,11) to (13,11).
+
+Time 605
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,23)
+Dwarf 14(minerBuilder) moves into tunnel from (0,23) to (0,24).
+
+Time 606
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (22,4)
+Dwarf 11(minerBuilder) digs through rock at (23,4) and moves from (22,4) to (23,4).
+
+Time 607
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (3,20)
+Dwarf 24(ultimateMiner) digs through rock at (4,20) and moves from (3,20) to (4,20).
+
+Time 608
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,23)
+Dwarf 19(superMiner) moves into tunnel from (0,23) to (0,24).
+
+Time 609
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,23)
+Dwarf 15(minerBuilder) moves into tunnel from (0,23) to (0,24).
+
+Time 610
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (11,12)
+Dwarf 18(superMiner) digs through rock at (12,12) and moves from (11,12) to (12,12).
+
+Time 611
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (23,0)
+Dwarf 6(digger) digs through rock at (24,0) and moves from (23,0) to (24,0).
+
+Time 612
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,22)
+Dwarf 1(searcher) moves into tunnel from (0,22) to (0,23).
+
+Time 613
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (4,19)
+Dwarf 16(superMiner) digs through rock at (5,19) and moves from (4,19) to (5,19).
+
+Time 614
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,22)
+Dwarf 4(searcher) moves into tunnel from (0,22) to (0,23).
+
+Time 615
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,23)
+Dwarf 7(digger) moves into tunnel from (0,23) to (0,24).
+
+Time 616
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,22)
+Dwarf 2(searcher) moves into tunnel from (0,22) to (0,23).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 617
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,23)
+Dwarf 2(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 618
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (7,17)
+Dwarf 9(digger) digs through rock at (8,17) and moves from (7,17) to (8,17).
+
+Time 619
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (0,24)
+Dwarf 15(minerBuilder) digs through rock at (1,24) and moves from (0,24) to (1,24).
+
+Time 620
+
+Dwarf 21 about to go!
+Dwarf 21 current position = (3,21)
+Dwarf 21(ultimateMiner) falls into pit and dies!
+
+Time 621
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (24,0)
+Dwarf 6(digger) digs through rock at (25,0) and moves from (24,0) to (25,0).
+
+Time 622
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (2,22)
+Dwarf 20(superMiner) digs through rock at (3,22) and moves from (2,22) to (3,22).
+
+Time 623
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,24)
+Dwarf 10(digger) digs through rock at (0,25) and moves from (0,24) to (0,25).
+
+Time 624
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,24)
+Dwarf 7(digger) moves into tunnel from (0,24) to (0,25).
+
+Time 625
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,24)
+Dwarf 14(minerBuilder) moves into tunnel from (0,24) to (0,25).
+
+Time 626
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,23)
+Dwarf 1(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 627
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,23)
+Dwarf 5(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 628
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,24)
+Dwarf 19(superMiner) moves into tunnel from (0,24) to (0,25).
+
+Time 629
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (5,19)
+Dwarf 16(superMiner) digs through rock at (6,19) and moves from (5,19) to (6,19).
+
+Time 630
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (4,20)
+Dwarf 24(ultimateMiner) digs through rock at (5,20) and moves from (4,20) to (5,20).
+
+Time 631
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (8,14)
+Dwarf 17(superMiner) digs through rock at (9,14) and moves from (8,14) to (9,14).
+
+Time 632
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (13,11)
+Dwarf 22(ultimateMiner) digs through rock at (14,11) and moves from (13,11) to (14,11).
+
+Time 633
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (1,23)
+Dwarf 13(minerBuilder) digs through rock at (2,23) and moves from (1,23) to (2,23).
+
+Time 634
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,23)
+Dwarf 3(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 635
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (6,18)
+Dwarf 23(ultimateMiner) digs through rock at (7,18) and moves from (6,18) to (7,18).
+
+Time 636
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (12,12)
+Dwarf 18(superMiner) digs through rock at (13,12) and moves from (12,12) to (13,12).
+
+Time 637
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (23,4)
+Dwarf 11(minerBuilder) digs through rock at (24,4) and moves from (23,4) to (24,4).
+
+Time 638
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,23)
+Dwarf 4(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 639
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,23)
+Dwarf 0(searcher) moves into tunnel from (0,23) to (0,24).
+
+Time 640
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (11,13)
+Dwarf 12(minerBuilder) digs through rock at (12,13) and moves from (11,13) to (12,13).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 641
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (0,25)
+Dwarf 19(superMiner) digs through rock at (1,25) and moves from (0,25) to (1,25).
+
+Time 642
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,24)
+Dwarf 3(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 643
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (14,11)
+Dwarf 22(ultimateMiner) digs through rock at (15,11) and moves from (14,11) to (15,11).
+
+Time 644
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (3,22)
+Dwarf 20(superMiner) digs through rock at (4,22) and moves from (3,22) to (4,22).
+
+Time 645
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (7,18)
+Dwarf 23(ultimateMiner) digs through rock at (8,18) and moves from (7,18) to (8,18).
+
+Time 646
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (8,17)
+Dwarf 9(digger) digs through rock at (9,17) and moves from (8,17) to (9,17).
+
+Time 647
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (9,14)
+Dwarf 17(superMiner) digs through rock at (10,14) and moves from (9,14) to (10,14).
+
+Time 648
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,24)
+Dwarf 1(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 649
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (12,13)
+Dwarf 12(minerBuilder) digs through rock at (13,13) and moves from (12,13) to (13,13).
+
+Time 650
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (25,0)
+Dwarf 6(digger) digs through rock at (26,0) and moves from (25,0) to (26,0).
+
+Time 651
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,24)
+Dwarf 0(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 652
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (6,19)
+Dwarf 16(superMiner) digs through rock at (7,19) and moves from (6,19) to (7,19).
+
+Time 653
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,24)
+Dwarf 5(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 654
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (13,12)
+Dwarf 18(superMiner) digs through rock at (14,12) and moves from (13,12) to (14,12).
+
+Time 655
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (2,23)
+Dwarf 13(minerBuilder) digs through rock at (3,23) and moves from (2,23) to (3,23).
+
+Time 656
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (5,20)
+Dwarf 24(ultimateMiner) digs through rock at (6,20) and moves from (5,20) to (6,20).
+
+Time 657
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (1,24)
+Dwarf 15(minerBuilder) digs through rock at (2,24) and moves from (1,24) to (2,24).
+
+Time 658
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,25)
+Dwarf 10(digger) digs through rock at (0,26) and moves from (0,25) to (0,26).
+
+Time 659
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,24)
+Dwarf 4(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 660
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,24)
+Dwarf 2(searcher) moves into tunnel from (0,24) to (0,25).
+
+Time 661
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,25)
+Dwarf 14(minerBuilder) moves into tunnel from (0,25) to (0,26).
+
+Time 662
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (24,4)
+Dwarf 11(minerBuilder) digs through rock at (25,4) and moves from (24,4) to (25,4).
+
+Time 663
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,25)
+Dwarf 7(digger) moves into tunnel from (0,25) to (0,26).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 664
+
+Dwarf 17 about to go!
+Dwarf 17 current position = (10,14)
+Dwarf 17(superMiner) digs through rock at (11,14) and moves from (10,14) to (11,14).
+
+Time 665
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (25,4)
+Dwarf 11(minerBuilder) digs through rock at (26,4) and moves from (25,4) to (26,4).
+
+Time 666
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (14,12)
+Dwarf 18(superMiner) digs through rock at (15,12) and moves from (14,12) to (15,12).
+
+Time 667
+
+Dwarf 14 about to go!
+Dwarf 14 current position = (0,26)
+Dwarf 14(minerBuilder) digs through rock at (1,26) and moves from (0,26) to (1,26).
+
+Time 668
+
+Dwarf 9 about to go!
+Dwarf 9 current position = (9,17)
+Dwarf 9(digger) digs through rock at (10,17) and moves from (9,17) to (10,17).
+
+Time 669
+
+Dwarf 5 about to go!
+Dwarf 5 current position = (0,25)
+Dwarf 5(searcher) moves into tunnel from (0,25) to (0,26).
+
+Time 670
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (3,23)
+Dwarf 13(minerBuilder) digs through rock at (4,23) and moves from (3,23) to (4,23).
+
+Time 671
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,26)
+Dwarf 7(digger) digs through rock at (0,27) and moves from (0,26) to (0,27).
+
+Time 672
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (6,20)
+Dwarf 24(ultimateMiner) digs through rock at (7,20) and moves from (6,20) to (7,20).
+
+Time 673
+
+Dwarf 0 about to go!
+Dwarf 0 current position = (0,25)
+Dwarf 0(searcher) moves into tunnel from (0,25) to (0,26).
+
+Time 674
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (26,0)
+Dwarf 6(digger) digs through rock at (27,0) and moves from (26,0) to (27,0).
+
+Time 675
+
+Dwarf 2 about to go!
+Dwarf 2 current position = (0,25)
+Dwarf 2(searcher) moves into tunnel from (0,25) to (0,26).
+
+Time 676
+
+Dwarf 3 about to go!
+Dwarf 3 current position = (0,25)
+Dwarf 3(searcher) moves into tunnel from (0,25) to (0,26).
+
+Time 677
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,25)
+Dwarf 1(searcher) moves into tunnel from (0,25) to (0,26).
+
+Time 678
+
+Dwarf 15 about to go!
+Dwarf 15 current position = (2,24)
+Dwarf 15(minerBuilder) digs through rock at (3,24) and moves from (2,24) to (3,24).
+
+Time 679
+
+Dwarf 20 about to go!
+Dwarf 20 current position = (4,22)
+Dwarf 20(superMiner) digs through rock at (5,22) and moves from (4,22) to (5,22).
+
+Time 680
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (13,13)
+Dwarf 12(minerBuilder) digs through rock at (14,13) and moves from (13,13) to (14,13).
+
+Time 681
+
+Dwarf 16 about to go!
+Dwarf 16 current position = (7,19)
+Dwarf 16(superMiner) digs through rock at (8,19) and moves from (7,19) to (8,19).
+
+Time 682
+
+Dwarf 22 about to go!
+Dwarf 22 current position = (15,11)
+Dwarf 22(ultimateMiner) digs through rock at (16,11) and moves from (15,11) to (16,11).
+
+Time 683
+
+Dwarf 19 about to go!
+Dwarf 19 current position = (1,25)
+Dwarf 19(superMiner) digs through rock at (2,25) and moves from (1,25) to (2,25).
+
+Time 684
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (8,18)
+Dwarf 23(ultimateMiner) digs through rock at (9,18) and moves from (8,18) to (9,18).
+
+Time 685
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,26)
+Dwarf 10(digger) moves into tunnel from (0,26) to (0,27).
+
+Time 686
+
+Dwarf 4 about to go!
+Dwarf 4 current position = (0,25)
+Dwarf 4(searcher) moves into tunnel from (0,25) to (0,26).
+
+
+All dwarfs completed task!
+===================================================
+
+Time 687
+
+Dwarf 7 about to go!
+Dwarf 7 current position = (0,27)
+Dwarf 7(digger) digs through rock at (1,27) and moves from (0,27) to (1,27).
+
+Time 688
+
+Dwarf 24 about to go!
+Dwarf 24 current position = (7,20)
+Dwarf 24(ultimateMiner) digs through rock at (8,20) and moves from (7,20) to (8,20).
+
+Time 689
+
+Dwarf 6 about to go!
+Dwarf 6 current position = (27,0)
+Dwarf 6(digger) digs through rock at (28,0) and moves from (27,0) to (28,0).
+
+Time 690
+
+Dwarf 18 about to go!
+Dwarf 18 current position = (15,12)
+Dwarf 18(superMiner) digs through rock at (16,12) and moves from (15,12) to (16,12).
+
+Time 691
+
+Dwarf 1 about to go!
+Dwarf 1 current position = (0,26)
+Dwarf 1(searcher) moves into tunnel from (0,26) to (0,27).
+
+Time 692
+
+Dwarf 12 about to go!
+Dwarf 12 current position = (14,13)
+Dwarf 12(minerBuilder) digs through rock at (15,13) and moves from (14,13) to (15,13).
+
+Time 693
+
+Dwarf 10 about to go!
+Dwarf 10 current position = (0,27)
+Dwarf 10(digger) digs through rock at (0,28) and moves from (0,27) to (0,28).
+
+Time 694
+
+Dwarf 13 about to go!
+Dwarf 13 current position = (4,23)
+Dwarf 13(minerBuilder) digs through rock at (5,23) and moves from (4,23) to (5,23).
+
+Time 695
+
+Dwarf 11 about to go!
+Dwarf 11 current position = (26,4)
+Dwarf 11(minerBuilder) digs through rock at (27,4) and moves from (26,4) to (27,4).
+
+Time 696
+
+Dwarf 23 about to go!
+Dwarf 23 current position = (9,18)
+Dwarf 23(ultimateMiner) falls into lava and dies!
+
+
+Simulation completed
+===================================================
+

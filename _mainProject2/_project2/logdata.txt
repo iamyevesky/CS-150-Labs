@@ -1,0 +1,281 @@
++++Adding dwarfs to simulation+++
+
+Dwarf 0 has been added to simulation!
+Dwarf 1 has been added to simulation!
+Dwarf 2 has been added to simulation!
+Dwarf 3 has been added to simulation!
+Dwarf 4 has been added to simulation!
+Dwarf 5 has been added to simulation!
+Dwarf 6 has been added to simulation!
+Dwarf 7 has been added to simulation!
+Dwarf 8 has been added to simulation!
+Dwarf 9 has been added to simulation!
+Dwarf 10 has been added to simulation!
+Dwarf 11 has been added to simulation!
+Dwarf 12 has been added to simulation!
+Dwarf 13 has been added to simulation!
+Dwarf 14 has been added to simulation!
+Dwarf 15 has been added to simulation!
+Dwarf 16 has been added to simulation!
+Dwarf 17 has been added to simulation!
+Dwarf 18 has been added to simulation!
+Dwarf 19 has been added to simulation!
+===================================================
+
++++Starting simulation+++
++++Dwarfs about to start!+++
+
+===================================================
+
+Dwarf 0 about to go!
+
+Dwarf 1 about to be painted!
+Dwarf 3 about to be painted!
+Dwarf 2 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 4 about to be painted!
+Dwarf 5 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 1 about to go!
+
+Dwarf 2 about to be painted!
+Dwarf 3 about to be painted!
+Dwarf 5 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 4 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 2 about to go!
+
+Dwarf 3 about to be painted!
+Dwarf 4 about to be painted!
+Dwarf 5 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 3 about to go!
+
+Dwarf 4 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 5 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 4 about to go!
+
+Dwarf 5 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 5 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 5 about to go!
+
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf 8 about to be painted!
+Dwarf 9 about to be painted!
+Dwarf 12 about to be painted!
+Dwarf 13 about to be painted!
+Dwarf 15 about to be painted!
+Dwarf 16 about to be painted!
+Dwarf 17 about to be painted!
+Dwarf 10 about to be painted!
+Dwarf 18 about to be painted!
+Dwarf 14 about to be painted!
+Dwarf 19 about to be painted!
+Dwarf 6 about to be painted!
+Dwarf 7 about to be painted!
+Dwarf 11 about to be painted!
+Dwarf

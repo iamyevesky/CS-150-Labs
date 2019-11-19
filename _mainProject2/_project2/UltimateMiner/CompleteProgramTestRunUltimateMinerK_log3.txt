@@ -1,0 +1,43 @@
++++Adding dwarfs to simulation+++
+
+Dwarf 0 has been added to simulation!
+Dwarf 1 has been added to simulation!
+Dwarf 2 has been added to simulation!
+Dwarf 3 has been added to simulation!
+Dwarf 4 has been added to simulation!
+Dwarf 5 has been added to simulation!
+Dwarf 6 has been added to simulation!
+Dwarf 7 has been added to simulation!
+Dwarf 8 has been added to simulation!
+Dwarf 9 has been added to simulation!
+Dwarf 10 has been added to simulation!
+Dwarf 11 has been added to simulation!
+Dwarf 12 has been added to simulation!
+Dwarf 13 has been added to simulation!
+Dwarf 14 has been added to simulation!
+Dwarf 15 has been added to simulation!
+Dwarf 16 has been added to simulation!
+Dwarf 17 has been added to simulation!
+Dwarf 18 has been added to simulation!
+Dwarf 19 has been added to simulation!
+Dwarf 20 has been added to simulation!
+Dwarf 21 has been added to simulation!
+Dwarf 22 has been added to simulation!
+Dwarf 23 has been added to simulation!
+Dwarf 24 has been added to simulation!
+Dwarf 25 has been added to simulation!
+Dwarf 26 has been added to simulation!
+Dwarf 27 has been added to simulation!
+Dwarf 28 has been added to simulation!
+Dwarf 29 has been added to simulation!
+===================================================
+
++++Starting simulation+++
++++Dwarfs about to start!+++
+
+===================================================
+
+
+Simulation completed
+===================================================
+

@@ -1,0 +1,23 @@
+ID,Type,TotalGoldMined,Death,Time
+0,searcher,0,Did not die,603
+1,searcher,0,Did not die,603
+2,searcher,0,Did not die,603
+3,searcher,0,Did not die,603
+4,searcher,0,Did not die,603
+5,digger,0,Did not die,603
+6,digger,0,Pit,474
+7,digger,0,Did not die,603
+8,digger,0,Did not die,603
+9,digger,0,Did not die,603
+10,minerBuilder,0,Did not die,603
+11,minerBuilder,5,Did not die,603
+12,minerBuilder,0,Did not die,603
+13,minerBuilder,0,Pit,538
+14,minerBuilder,0,Pit,414
+15,superMiner,0,Did not die,603
+16,superMiner,5,Did not die,603
+17,superMiner,0,Lava,593
+18,superMiner,0,Did not die,603
+19,superMiner,0,Did not die,603
+20,ultimateMiner,0,Did not die,603
+21,ultimateMiner,0,Lava,602

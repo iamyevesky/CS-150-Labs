@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FoodByType
+comment0.text=\n\ Write\ a\ description\ of\ class\ FoodByType\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=meal
+comment1.target=FoodByType(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FoodByType\n
+comment2.params=item
+comment2.target=boolean\ add(Food)
+comment3.params=type\ budget
+comment3.target=void\ display(java.lang.String,\ int)
+comment3.text=\n\ Displays\ the\ items\ in\ the\ FoodByType\ container\ of\ specific\ type\ and\ budget\n\n\n\ @param\ Type\ type\ of\ meal\ to\ be\ displayed\n\ @param\ Budget\ maximum\ price\ of\ the\ meal\ \n
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TernarySearchTree
+comment0.text=\n\ Abstract\ class\ TernarySearchTree\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=
+comment1.target=void\ empty()
+comment1.text=\n\ Removes\ all\ the\ objects\ in\ a\ tree\n\n\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\n\ Returns\ true\ if\ there\ are\ no\ objects\ in\ the\ object\ class\ implementing\ Tree\n\n\ @return\ boolean\ value\ determining\ if\ a\ tree\ implementing\ class\ object\ is\ empty\ or\ not\n
+comment3.params=val
+comment3.target=void\ insert(java.lang.Comparable)
+comment4.params=value\ node
+comment4.target=void\ insertRecursive(java.lang.Comparable,\ BinaryNode)
+comment5.params=
+comment5.target=BinaryNode\ getRoot()
+comment6.params=node
+comment6.target=void\ setRoot(BinaryNode)
+numComments=7

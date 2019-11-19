@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TernaryTree
+comment0.text=\n\ Write\ a\ description\ of\ interface\ TernaryTree\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TernaryTree\ leftSubTree()
+comment2.params=
+comment2.target=TernaryTree\ midSubTree()
+comment3.params=
+comment3.target=TernaryTree\ rightSubTree()
+comment4.params=val\ n
+comment4.target=void\ insertMany(java.lang.Comparable,\ int)
+comment5.params=val
+comment5.target=void\ removeDuplicates(java.lang.Comparable)
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7

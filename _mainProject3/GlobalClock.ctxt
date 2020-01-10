@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GlobalClock
+comment0.text=\n\ This\ class\ simulates\ the\ global\ time\ for\ the\ whole\ simulation.\n\ Time\ is\ measured\ in\ 'ticks'\ or\ 'quants'.\n\ One\ quant\ is\ teaken\ as\ 60\ seconds\ in\ real\ world\ time.\n\ Global\ time\ increases\ by\ one\ quant\ for\ every\ experiment\ loop.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ October\ 7,\ 2019.\n
+comment1.params=
+comment1.target=GlobalClock()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GlobalClock\n
+comment2.params=
+comment2.target=int\ time()
+comment2.text=\n\ Returns\ the\ value\ of\ global\ time\n\n\ @return\ global\ quant\ time\n
+comment3.params=
+comment3.target=void\ tick()
+comment3.text=\n\ Increases\ the\ time\ of\ the\ simulation\n\ \n
+comment4.params=
+comment4.target=void\ reset()
+comment4.text=\n\ Resets\ the\ value\ of\ global\ time\n\n
+comment5.params=time\ prob\ hops\ network\ min\ max
+comment5.target=void\ run(int,\ float,\ int,\ Network,\ int,\ int)
+comment5.text=\n\ Runs\ a\ single\ simulation\ for\ a\ specific\ amount\ of\ clock\ ticks\n\ \n\ @param\ int\ time\ -\ Period\ of\ simulation\ in\ clock\ ticks\n\ @param\ float\ prob\ -\ Probability\ at\ which\ new\ Passenegrs\ are\ added\ to\ simulation\n\ @param\ Network\ network\ -\ Road\ network\ for\ simulation\n\ @param\ int\ min\ -\ Minimum\ edge\ weight\ of\ simulation\n\ @param\ int\ max\ -\ Maximum\ edge\ weight\ of\ simulation\n
+numComments=6

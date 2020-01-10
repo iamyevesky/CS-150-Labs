@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\n\ A\ class\ that\ represents\ an\ edge\ connection\ in\ a\ graph.\n\ \n\ NOTICE\:\ Edge\ class\ is\ not\ intended\ to\ be\ part\ of\ program.\ This\ was\ started\ so\ I\ could\ explore\ if\ Kruskal\ would\ be\ a\ better\ implementation\n\ in\ case\ my\ computer\ could\ not\ run\ the\ initial\ program.\ THat\ is\ why\ no\ tests\ are\ node\ on\ this\ class.\ \n\n\ @author\ Sena\ Yevenyo\n\ @version\ November\ 28,\ 2019\n
+comment1.params=first\ second\ weight
+comment1.target=Edge(Node,\ Node,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Edge\n\ @param\ Node\ first\ -\ one\ node\ of\ the\ edge\ connection\n\ @param\ Node\ second\ -\ the\ other\ node\ of\ the\ edge\ connection\n\ @param\ int\ weight\ -\ the\ weight\ of\ the\ edge\ connection\n
+comment2.params=
+comment2.target=Node\ getFirstNode()
+comment2.text=\n\ Returns\ the\ 'first'\ node\ of\ the\ edge\ connection\:\ Node\ with\ the\ lowest\ index\ of\ the\ edge\ connection\n\ Edges\ are\ undirected,\ thus\ there\ is\ no\ 'from'\ or\ 'to'\ connection.\n\ @return\ node\ object\ with\ the\ lowest\ index\ of\ the\ edge\ connection\n
+comment3.params=
+comment3.target=Node\ getSecondNode()
+comment3.text=\n\ Returns\ the\ 'second'\ node\ of\ the\ edge\ connection\:\ Node\ with\ the\ highest\ index\ value\ of\ the\ edge\ connection\n\ Edges\ are\ undirected,\ thus\ there\ is\ no\ 'from'\ or\ 'to'\ connection.\n\ @return\ node\ object\ with\ the\ highest\ index\ value\ of\ the\ edge\ connection\n
+comment4.params=
+comment4.target=int\ getWeight()
+comment4.text=\n\ Returns\ the\ weight\ of\ the\ edge\ connection\n\ @return\ the\ weight\ of\ the\ edge\ connection\n
+numComments=5

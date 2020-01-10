@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Write\ a\ description\ of\ class\ ExperimentController\ here.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ November\ 24,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\n
+comment2.params=
+comment2.target=ExperimentController()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\n
+comment3.params=prob
+comment3.target=void\ run(java.lang.String[])
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment4.params=prob
+comment4.target=ListUndirectedWeightedGraph\ createListGraph(float)
+comment5.params=prob
+comment5.target=MatrixUndirectedWeightedGraph\ createMatrixGraph(float)
+comment6.params=graph
+comment6.target=float\ testConnected(ListUndirectedWeightedGraph)
+comment7.params=graph
+comment7.target=float\ testKruskal(ListUndirectedWeightedGraph)
+comment8.params=graph
+comment8.target=float\ testConnected(MatrixUndirectedWeightedGraph)
+comment9.params=graph
+comment9.target=float\ testKruskal(MatrixUndirectedWeightedGraph)
+numComments=10

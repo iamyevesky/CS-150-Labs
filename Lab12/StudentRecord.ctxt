@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StudentRecord
+comment0.text=\n\ Represents\ a\ student\ record.\n\n\ @author\ Sena\ Yevenyo\n\ @version\ December\ 2,\ 2019\n
+comment1.params=first\ last\ id
+comment1.target=StudentRecord(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StudentRecord\ object\n\ @param\ String\ first\ -\ First\ name\ of\ StudentRecord\ object\n\ @param\ String\ second\ -\ Second\ name\ of\ StudentRecord\ object\n\ @param\ String\ ID\ -\ Identification\ of\ StudentRecord\ object\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\n\ Returns\ the\ first\ name\ of\ the\ StudentRecord\ object\n\n\ @return\ String\ object\ -\ the\ first\ name\ of\ the\ StudentRecord\ object\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\n\ Returns\ the\ last\ name\ of\ the\ StudentRecord\ object\n\n\ @return\ String\ object\ -\ the\ last\ name\ of\ the\ StudentRecord\ object\n
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment4.text=\n\ Returns\ the\ ID\ of\ the\ StudentRecord\ object\n\n\ @return\ String\ object\ -\ the\ ID\ of\ the\ StudentRecord\ object\n
+comment5.params=first
+comment5.target=void\ setFirstName(java.lang.String)
+comment5.text=\n\ Sets\ the\ first\ name\ of\ the\ StudentRecord\ object\n\n\ @param\ String\ first\ -\ the\ first\ name\ of\ the\ StudentRecord\ object\n
+comment6.params=last
+comment6.target=void\ setLastName(java.lang.String)
+comment6.text=\n\ Sets\ the\ last\ name\ of\ the\ StudentRecord\ object\n\n\ @param\ String\ last\ -\ the\ last\ name\ of\ the\ StudentRecord\ object\n
+comment7.params=id
+comment7.target=void\ setID(java.lang.String)
+comment7.text=\n\ Sets\ the\ ID\ of\ the\ StudentRecord\ object\n\n\ @param\ String\ id\ -\ the\ id\ of\ the\ StudentRecord\ object\n
+numComments=8
